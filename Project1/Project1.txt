@@ -1,0 +1,12 @@
+Project 1 - Add syscall to linux kernel on raspberry pi
+By: Julio Anacleto | Abdullah Almaroof
+
+Hardships / Challenges faced
+- Large amount of time spent trying to cross compile kernel across home server network, ultimately built the kernel natively and found the process much easier.
+- Confusion around the implementation of two kernel trees being used at the same time. Realized that our configurable kernel will be the main kernel we will boot into and the original will not be built and instead used to create patch files using the diff command.
+- Struggled to find a comprehendible set of instructions for adding a syscall to our kernel and proceeding to call said syscall with a userspace application.
+- The tutorial we found was intended for a linux kernel v4.13.0 while our current linux kernel was v6.12.51. This lead to difference between instructions and what we ultimately did as we gained assisstance from other class mates that were also working to configure the set of instructions to our current kernel.
+- Found that the instructions had listed a syscall in the userspace application that did not exist in our version of the linux kernel which resulted in our userspace application returning a -1 when ran. We went through the system map trying to diagnos what our issue was and ultimately found that we were attempting to call a syscall that did not exist in our kernel.
+- Encountered a set of warning that were generated from not having a line of space between our syscall in the syscall.h header file. This proceeded to generate a variety of warnings that might have caused issues and so we attempted to resolve this before finishing the build process.
+- Attempted to use github through the rapsberry pi push our version of the linux kernel onto a github reposittory so that we could easily access files that we would use to upload to canvas for a final submission. Spent two hours attempting this procedure but continued to run into a road block with authentication for access to the github repository.
+- Continued to make mistakes in our completed versions of the linux kernel and ultimately had to rebuild a new kernel repeatedly.
