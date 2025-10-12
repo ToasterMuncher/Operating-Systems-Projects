@@ -10,3 +10,24 @@ Hardships / Challenges faced
 - Encountered a set of warning that were generated from not having a line of space between our syscall in the syscall.h header file. This proceeded to generate a variety of warnings that might have caused issues and so we attempted to resolve this before finishing the build process.
 - Attempted to use github through the rapsberry pi push our version of the linux kernel onto a github reposittory so that we could easily access files that we would use to upload to canvas for a final submission. Spent two hours attempting this procedure but continued to run into a road block with authentication for access to the github repository.
 - Continued to make mistakes in our completed versions of the linux kernel and ultimately had to rebuild a new kernel repeatedly.
+
+Contributions
+Abdullah:
+- Found tutorial used to create system call
+- Corrected any mistakes in altered files
+Julio:
+- Created linux kernel that is being submitted
+- Made sure team had two kernel trees
+
+Dmesg results
+julio@raspberrypi:~ $ dmesg | tail
+[    3.937350] macb 1f00100000.ethernet eth0: configuring for phy/rgmii-id link mode
+[    3.940251] macb 1f00100000.ethernet: gem-ptp-timer ptp clock registered.
+[    3.968622] brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+[    4.608343] tun: Universal TUN/TAP device driver, 1.6
+[    5.949745] Bluetooth: RFCOMM TTY layer initialized
+[    5.949761] Bluetooth: RFCOMM socket layer initialized
+[    5.949771] Bluetooth: RFCOMM ver 1.11
+[  193.922535] warning: `ThreadPoolForeg' uses wireless extensions which will stop working for Wi-Fi 7 hardware; use nl80211
+[  384.963914] Julio Anacleto & Abdullah Almaroof
+[  384.963922] Hello world
