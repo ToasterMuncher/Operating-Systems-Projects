@@ -1,5 +1,5 @@
 /*
- * Julio Anacleto
+ * Julio Anacleto | Abdullah Almaroof
  * October 27th, 2025
  * Project 2 - Single thread application of matrix dot product
  */
