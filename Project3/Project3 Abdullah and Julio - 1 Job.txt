@@ -1,0 +1,24 @@
+DEBUG: Total Jobs to be created: 1
+NOTICE: TO CHANGE THE AMOUNT OF JOBS PLEASE CHANGE THE MAX_SIZE GLOBAL VARIABLE
+Job 1 initialized | Phase 0: CPU (337ms) | Phase 1: CPU (915ms) | Phase 2: CPU (91ms) | Phase 3: CPU (230ms) | Phase 4: CPU (413ms)
+New Job Created with Job ID: 1, it's current phase is: 0
+Job 1 has been added to CPU Queue
+Job 1 is executing in CPU, it will take 337 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 915 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 91 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 230 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 413 milliseconds
+Job 1 is completed in CPU
+Job 1 is set to completed
+Job 1 is queued to Finished Queue
+Job 1 has finished and been dequeued from Finish Queue
+DEBUG: Finished 1 / 1 jobs
+All Jobs Finished

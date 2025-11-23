@@ -1,0 +1,127 @@
+DEBUG: Total Jobs to be created: 5
+NOTICE: TO CHANGE THE AMOUNT OF JOBS PLEASE CHANGE THE MAX_SIZE GLOBAL VARIABLE
+Job 1 initialized | Phase 0: CPU (790ms) | Phase 1: CPU (637ms) | Phase 2: CPU (96ms) | Phase 3: IO (783ms) | Phase 4: IO (696ms)
+New Job Created with Job ID: 1, it's current phase is: 0
+Job 1 has been added to CPU Queue
+Job 2 initialized | Phase 0: CPU (45ms) | Phase 1: CPU (866ms) | Phase 2: IO (365ms) | Phase 3: IO (187ms) | Phase 4: IO (702ms)
+New Job Created with Job ID: 2, it's current phase is: 0
+Job 3 initialized | Phase 0: CPU (893ms) | Phase 1: CPU (359ms) | Phase 2: CPU (293ms) | Phase 3: IO (91ms) | Phase 4: CPU (922ms)
+New Job Created with Job ID: 3, it's current phase is: 0
+Job 2 has been added to CPU Queue
+Job 4 initialized | Phase 0: CPU (229ms) | Phase 1: CPU (344ms) | Phase 2: IO (454ms) | Phase 3: CPU (86ms) | Phase 4: IO (249ms)
+New Job Created with Job ID: 4, it's current phase is: 0
+Job 4 has been added to CPU Queue
+Job 3 has been added to CPU Queue
+Job 1 is executing in CPU, it will take 790 milliseconds
+Job 2 is executing in CPU, it will take 45 milliseconds
+Job 4 is executing in CPU, it will take 229 milliseconds
+Job 3 is executing in CPU, it will take 893 milliseconds
+Job 2 is completed in CPU
+Job 2 is queued to Ready Queue
+Job 2 is executing in CPU, it will take 866 milliseconds
+Job 4 is completed in CPU
+Job 4 is queued to Ready Queue
+Job 4 is executing in CPU, it will take 344 milliseconds
+Job 5 initialized | Phase 0: CPU (57ms) | Phase 1: IO (559ms) | Phase 2: IO (298ms) | Phase 3: IO (865ms) | Phase 4: IO (253ms)
+New Job Created with Job ID: 5, it's current phase is: 0
+Job 5 has been added to CPU Queue
+Job 6 initialized | Phase 0: CPU (559ms) | Phase 1: IO (298ms) | Phase 2: IO (865ms) | Phase 3: IO (253ms) | Phase 4: CPU (927ms)
+New Job Created with Job ID: 6, it's current phase is: 0
+Job 6 has been added to CPU Queue
+Job 5 is executing in CPU, it will take 57 milliseconds
+Job 6 is executing in CPU, it will take 559 milliseconds
+Job 5 is completed in CPU
+Job 5 is queued to IO Queue
+Job 4 is completed in CPU
+Job 4 is queued to IO Queue
+Job 5 is executing in IO, it will take 559 milliseconds
+Job 4 is executing in IO, it will take 454 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 637 milliseconds
+Job 6 is completed in CPU
+Job 6 is queued to IO Queue
+Job 3 is completed in CPU
+Job 3 is queued to Ready Queue
+Job 3 is executing in CPU, it will take 359 milliseconds
+Job 6 is executing in IO, it will take 298 milliseconds
+Job 2 is completed in CPU
+Job 2 is queued to IO Queue
+Job 4 is completed in IO
+Job 4 is queued to Ready Queue
+Job 2 is executing in IO, it will take 365 milliseconds
+Job 5 is completed in IO
+Job 5 is queued to IO Queue
+Job 5 is executing in IO, it will take 298 milliseconds
+Job 4 is executing in CPU, it will take 86 milliseconds
+Job 6 is completed in IO
+Job 6 is queued to IO Queue
+Job 6 is executing in IO, it will take 865 milliseconds
+Job 4 is completed in CPU
+Job 4 is queued to IO Queue
+Job 3 is completed in CPU
+Job 3 is queued to Ready Queue
+Job 3 is executing in CPU, it will take 293 milliseconds
+Job 2 is completed in IO
+Job 2 is queued to IO Queue
+Job 4 is executing in IO, it will take 249 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 96 milliseconds
+Job 5 is completed in IO
+Job 5 is queued to IO Queue
+Job 2 is executing in IO, it will take 187 milliseconds
+Job 5 is executing in IO, it will take 865 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to IO Queue
+Job 3 is completed in CPU
+Job 3 is queued to IO Queue
+Job 2 is completed in IO
+Job 2 is queued to IO Queue
+Job 1 is executing in IO, it will take 783 milliseconds
+Job 4 is completed in IO
+Job 4 is set to completed
+Job 4 is queued to Finished Queue
+Job 3 is executing in IO, it will take 91 milliseconds
+Job 3 is completed in IO
+Job 3 is queued to Ready Queue
+Job 2 is executing in IO, it will take 702 milliseconds
+Job 3 is executing in CPU, it will take 922 milliseconds
+Job 4 has finished and been dequeued from Finish Queue
+DEBUG: Finished 1 / 5 jobs
+Job 6 is completed in IO
+Job 6 is queued to IO Queue
+Job 6 is executing in IO, it will take 253 milliseconds
+Job 6 is completed in IO
+Job 6 is queued to Ready Queue
+Job 5 is completed in IO
+Job 5 is queued to IO Queue
+Job 5 is executing in IO, it will take 253 milliseconds
+Job 6 is executing in CPU, it will take 927 milliseconds
+Job 1 is completed in IO
+Job 1 is queued to IO Queue
+Job 1 is executing in IO, it will take 696 milliseconds
+Job 2 is completed in IO
+Job 2 is set to completed
+Job 2 is queued to Finished Queue
+Job 5 is completed in IO
+Job 5 is set to completed
+Job 5 is queued to Finished Queue
+Job 3 is completed in CPU
+Job 3 is set to completed
+Job 3 is queued to Finished Queue
+Job 2 has finished and been dequeued from Finish Queue
+DEBUG: Finished 2 / 5 jobs
+Job 5 has finished and been dequeued from Finish Queue
+DEBUG: Finished 3 / 5 jobs
+Job 3 has finished and been dequeued from Finish Queue
+DEBUG: Finished 4 / 5 jobs
+Job 1 is completed in IO
+Job 1 is set to completed
+Job 1 is queued to Finished Queue
+Job 1 has finished and been dequeued from Finish Queue
+DEBUG: Finished 5 / 5 jobs
+All Jobs Finished
+Job 6 is completed in CPU
+Job 6 is set to completed
+Job 6 is queued to Finished Queue

@@ -1,0 +1,2103 @@
+DEBUG: Total Jobs to be created: 100
+NOTICE: TO CHANGE THE AMOUNT OF JOBS PLEASE CHANGE THE MAX_SIZE GLOBAL VARIABLE
+Job 1 initialized | Phase 0: CPU (385ms) | Phase 1: CPU (787ms) | Phase 2: IO (384ms) | Phase 3: CPU (435ms) | Phase 4: IO (272ms)
+New Job Created with Job ID: 1, it's current phase is: 0
+Job 1 has been added to CPU Queue
+Job 2 initialized | Phase 0: CPU (197ms) | Phase 1: IO (423ms) | Phase 2: IO (994ms) | Phase 3: CPU (827ms) | Phase 4: IO (20ms)
+New Job Created with Job ID: 2, it's current phase is: 0
+Job 2 has been added to CPU Queue
+Job 3 initialized | Phase 0: CPU (589ms) | Phase 1: CPU (469ms) | Phase 2: IO (208ms) | Phase 3: IO (107ms) | Phase 4: CPU (808ms)
+New Job Created with Job ID: 3, it's current phase is: 0
+Job 3 has been added to CPU Queue
+Job 4 initialized | Phase 0: CPU (627ms) | Phase 1: CPU (646ms) | Phase 2: IO (609ms) | Phase 3: IO (193ms) | Phase 4: CPU (938ms)
+New Job Created with Job ID: 4, it's current phase is: 0
+Job 4 has been added to CPU Queue
+Job 1 is executing in CPU, it will take 385 milliseconds
+Job 2 is executing in CPU, it will take 197 milliseconds
+Job 3 is executing in CPU, it will take 589 milliseconds
+Job 4 is executing in CPU, it will take 627 milliseconds
+Job 2 is completed in CPU
+Job 2 is queued to IO Queue
+Job 5 initialized | Phase 0: CPU (981ms) | Phase 1: CPU (779ms) | Phase 2: IO (906ms) | Phase 3: IO (156ms) | Phase 4: IO (893ms)
+New Job Created with Job ID: 5, it's current phase is: 0
+Job 5 has been added to CPU Queue
+Job 7 initialized | Phase 0: CPU (245ms) | Phase 1: IO (896ms) | Phase 2: IO (773ms) | Phase 3: IO (305ms) | Phase 4: CPU (70ms)
+New Job Created with Job ID: 7, it's current phase is: 0
+Job 7 has been added to CPU Queue
+Job 8 initialized | Phase 0: CPU (69ms) | Phase 1: CPU (423ms) | Phase 2: IO (637ms) | Phase 3: CPU (804ms) | Phase 4: CPU (393ms)
+New Job Created with Job ID: 8, it's current phase is: 0
+Job 8 has been added to CPU Queue
+Job 2 is executing in IO, it will take 423 milliseconds
+Job 6 initialized | Phase 0: CPU (218ms) | Phase 1: IO (174ms) | Phase 2: IO (808ms) | Phase 3: IO (39ms) | Phase 4: IO (433ms)
+New Job Created with Job ID: 6, it's current phase is: 0
+Job 6 has been added to CPU Queue
+Job 5 is executing in CPU, it will take 981 milliseconds
+Job 7 is executing in CPU, it will take 245 milliseconds
+Job 8 is executing in CPU, it will take 69 milliseconds
+Job 6 is executing in CPU, it will take 218 milliseconds
+Job 8 is completed in CPU
+Job 8 is queued to Ready Queue
+Job 8 is executing in CPU, it will take 423 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 787 milliseconds
+Job 6 is completed in CPU
+Job 6 is queued to IO Queue
+Job 7 is completed in CPU
+Job 7 is queued to IO Queue
+Job 3 is completed in CPU
+Job 3 is queued to Ready Queue
+Job 3 is executing in CPU, it will take 469 milliseconds
+Job 6 is executing in IO, it will take 174 milliseconds
+Job 9 initialized | Phase 0: CPU (738ms) | Phase 1: IO (547ms) | Phase 2: CPU (124ms) | Phase 3: IO (454ms) | Phase 4: IO (680ms)
+New Job Created with Job ID: 9, it's current phase is: 0
+Job 9 has been added to CPU Queue
+Job 10 initialized | Phase 0: CPU (212ms) | Phase 1: CPU (55ms) | Phase 2: IO (77ms) | Phase 3: CPU (894ms) | Phase 4: CPU (414ms)
+New Job Created with Job ID: 10, it's current phase is: 0
+Job 10 has been added to CPU Queue
+Job 11 initialized | Phase 0: CPU (469ms) | Phase 1: IO (429ms) | Phase 2: IO (19ms) | Phase 3: IO (185ms) | Phase 4: CPU (684ms)
+New Job Created with Job ID: 11, it's current phase is: 0
+Job 11 has been added to CPU Queue
+Job 7 is executing in IO, it will take 896 milliseconds
+Job 12 initialized | Phase 0: CPU (922ms) | Phase 1: IO (990ms) | Phase 2: IO (130ms) | Phase 3: IO (290ms) | Phase 4: CPU (268ms)
+New Job Created with Job ID: 12, it's current phase is: 0
+Job 12 has been added to CPU Queue
+Job 4 is completed in CPU
+Job 4 is queued to Ready Queue
+Job 9 is executing in CPU, it will take 738 milliseconds
+Job 2 is completed in IO
+Job 2 is queued to IO Queue
+Job 2 is executing in IO, it will take 994 milliseconds
+Job 6 is completed in IO
+Job 6 is queued to IO Queue
+Job 6 is executing in IO, it will take 808 milliseconds
+Job 10 is executing in CPU, it will take 212 milliseconds
+Job 8 is completed in CPU
+Job 8 is queued to IO Queue
+Job 11 is executing in CPU, it will take 469 milliseconds
+Job 12 is executing in CPU, it will take 922 milliseconds
+Job 4 is executing in CPU, it will take 646 milliseconds
+Job 13 initialized | Phase 0: CPU (523ms) | Phase 1: CPU (343ms) | Phase 2: IO (532ms) | Phase 3: CPU (206ms) | Phase 4: IO (593ms)
+New Job Created with Job ID: 13, it's current phase is: 0
+Job 13 has been added to CPU Queue
+Job 14 initialized | Phase 0: CPU (808ms) | Phase 1: CPU (56ms) | Phase 2: IO (173ms) | Phase 3: IO (498ms) | Phase 4: CPU (581ms)
+New Job Created with Job ID: 14, it's current phase is: 0
+Job 14 has been added to CPU Queue
+Job 15 initialized | Phase 0: CPU (604ms) | Phase 1: IO (854ms) | Phase 2: CPU (575ms) | Phase 3: IO (318ms) | Phase 4: CPU (425ms)
+Job 16 initialized | Phase 0: CPU (405ms) | Phase 1: IO (4ms) | Phase 2: IO (857ms) | Phase 3: CPU (654ms) | Phase 4: IO (569ms)
+New Job Created with Job ID: 16, it's current phase is: 0
+Job 16 has been added to CPU Queue
+New Job Created with Job ID: 15, it's current phase is: 0
+Job 15 has been added to CPU Queue
+Job 8 is executing in IO, it will take 637 milliseconds
+Job 10 is completed in CPU
+Job 10 is queued to Ready Queue
+Job 13 is executing in CPU, it will take 523 milliseconds
+Job 3 is completed in CPU
+Job 3 is queued to IO Queue
+Job 14 is executing in CPU, it will take 808 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to IO Queue
+Job 16 is executing in CPU, it will take 405 milliseconds
+Job 17 initialized | Phase 0: CPU (87ms) | Phase 1: CPU (935ms) | Phase 2: CPU (151ms) | Phase 3: IO (753ms) | Phase 4: IO (181ms)
+New Job Created with Job ID: 17, it's current phase is: 0
+Job 17 has been added to CPU Queue
+Job 18 initialized | Phase 0: CPU (396ms) | Phase 1: IO (120ms) | Phase 2: CPU (491ms) | Phase 3: IO (857ms) | Phase 4: CPU (887ms)
+New Job Created with Job ID: 18, it's current phase is: 0
+Job 18 has been added to CPU Queue
+Job 19 initialized | Phase 0: CPU (679ms) | Phase 1: IO (395ms) | Phase 2: IO (255ms) | Phase 3: CPU (540ms) | Phase 4: CPU (270ms)
+New Job Created with Job ID: 19, it's current phase is: 0
+Job 19 has been added to CPU Queue
+Job 20 initialized | Phase 0: CPU (235ms) | Phase 1: IO (259ms) | Phase 2: IO (234ms) | Phase 3: CPU (673ms) | Phase 4: IO (572ms)
+New Job Created with Job ID: 20, it's current phase is: 0
+Job 20 has been added to CPU Queue
+Job 11 is completed in CPU
+Job 11 is queued to IO Queue
+Job 15 is executing in CPU, it will take 604 milliseconds
+Job 5 is completed in CPU
+Job 5 is queued to Ready Queue
+Job 10 is executing in CPU, it will take 55 milliseconds
+Job 10 is completed in CPU
+Job 10 is queued to IO Queue
+Job 17 is executing in CPU, it will take 87 milliseconds
+Job 9 is completed in CPU
+Job 9 is queued to IO Queue
+Job 18 is executing in CPU, it will take 396 milliseconds
+Job 17 is completed in CPU
+Job 17 is queued to Ready Queue
+Job 19 is executing in CPU, it will take 679 milliseconds
+Job 4 is completed in CPU
+Job 4 is queued to IO Queue
+Job 20 is executing in CPU, it will take 235 milliseconds
+Job 7 is completed in IO
+Job 7 is queued to IO Queue
+Job 3 is executing in IO, it will take 208 milliseconds
+Job 21 initialized | Phase 0: CPU (666ms) | Phase 1: CPU (661ms) | Phase 2: IO (578ms) | Phase 3: IO (6ms) | Phase 4: CPU (305ms)
+New Job Created with Job ID: 21, it's current phase is: 0
+Job 21 has been added to CPU Queue
+Job 22 initialized | Phase 0: CPU (351ms) | Phase 1: IO (662ms) | Phase 2: IO (712ms) | Phase 3: CPU (158ms) | Phase 4: IO (219ms)
+New Job Created with Job ID: 22, it's current phase is: 0
+Job 22 has been added to CPU Queue
+Job 23 initialized | Phase 0: CPU (239ms) | Phase 1: CPU (584ms) | Phase 2: CPU (786ms) | Phase 3: IO (479ms) | Phase 4: IO (249ms)
+New Job Created with Job ID: 23, it's current phase is: 0
+Job 23 has been added to CPU Queue
+Job 24 initialized | Phase 0: CPU (672ms) | Phase 1: CPU (69ms) | Phase 2: CPU (133ms) | Phase 3: CPU (519ms) | Phase 4: CPU (905ms)
+New Job Created with Job ID: 24, it's current phase is: 0
+Job 24 has been added to CPU Queue
+Job 13 is completed in CPU
+Job 13 is queued to Ready Queue
+Job 5 is executing in CPU, it will take 779 milliseconds
+Job 8 is completed in IO
+Job 8 is queued to Ready Queue
+Job 1 is executing in IO, it will take 384 milliseconds
+Job 16 is completed in CPU
+Job 16 is queued to IO Queue
+Job 17 is executing in CPU, it will take 935 milliseconds
+Job 6 is completed in IO
+Job 6 is queued to IO Queue
+Job 11 is executing in IO, it will take 429 milliseconds
+Job 3 is completed in IO
+Job 3 is queued to IO Queue
+Job 10 is executing in IO, it will take 77 milliseconds
+Job 2 is completed in IO
+Job 2 is queued to Ready Queue
+Job 9 is executing in IO, it will take 547 milliseconds
+Job 20 is completed in CPU
+Job 20 is queued to IO Queue
+Job 21 is executing in CPU, it will take 666 milliseconds
+Job 12 is completed in CPU
+Job 12 is queued to IO Queue
+Job 22 is executing in CPU, it will take 351 milliseconds
+Job 18 is completed in CPU
+Job 18 is queued to IO Queue
+Job 23 is executing in CPU, it will take 239 milliseconds
+Job 10 is completed in IO
+Job 10 is queued to Ready Queue
+Job 4 is executing in IO, it will take 609 milliseconds
+Job 25 initialized | Phase 0: CPU (233ms) | Phase 1: IO (99ms) | Phase 2: IO (231ms) | Phase 3: CPU (363ms) | Phase 4: CPU (149ms)
+New Job Created with Job ID: 25, it's current phase is: 0
+Job 25 has been added to CPU Queue
+Job 26 initialized | Phase 0: CPU (388ms) | Phase 1: IO (632ms) | Phase 2: IO (220ms) | Phase 3: CPU (954ms) | Phase 4: CPU (289ms)
+New Job Created with Job ID: 26, it's current phase is: 0
+Job 26 has been added to CPU Queue
+Job 27 initialized | Phase 0: CPU (976ms) | Phase 1: CPU (530ms) | Phase 2: CPU (361ms) | Phase 3: IO (22ms) | Phase 4: IO (115ms)
+New Job Created with Job ID: 27, it's current phase is: 0
+Job 27 has been added to CPU Queue
+Job 28 initialized | Phase 0: CPU (941ms) | Phase 1: CPU (238ms) | Phase 2: IO (430ms) | Phase 3: IO (404ms) | Phase 4: CPU (205ms)
+New Job Created with Job ID: 28, it's current phase is: 0
+Job 28 has been added to CPU Queue
+Job 15 is completed in CPU
+Job 15 is queued to IO Queue
+Job 24 is executing in CPU, it will take 672 milliseconds
+Job 14 is completed in CPU
+Job 14 is queued to Ready Queue
+Job 13 is executing in CPU, it will take 343 milliseconds
+Job 1 is completed in IO
+Job 1 is queued to Ready Queue
+Job 7 is executing in IO, it will take 773 milliseconds
+Job 23 is completed in CPU
+Job 23 is queued to Ready Queue
+Job 8 is executing in CPU, it will take 804 milliseconds
+Job 11 is completed in IO
+Job 11 is queued to IO Queue
+Job 16 is executing in IO, it will take 4 milliseconds
+Job 16 is completed in IO
+Job 16 is queued to IO Queue
+Job 6 is executing in IO, it will take 39 milliseconds
+Job 6 is completed in IO
+Job 6 is queued to IO Queue
+Job 3 is executing in IO, it will take 107 milliseconds
+Job 22 is completed in CPU
+Job 22 is queued to IO Queue
+Job 2 is executing in CPU, it will take 827 milliseconds
+Job 19 is completed in CPU
+Job 19 is queued to IO Queue
+Job 10 is executing in CPU, it will take 894 milliseconds
+Job 29 initialized | Phase 0: CPU (440ms) | Phase 1: CPU (781ms) | Phase 2: CPU (422ms) | Phase 3: CPU (325ms) | Phase 4: IO (430ms)
+New Job Created with Job ID: 29, it's current phase is: 0
+Job 29 has been added to CPU Queue
+Job 30 initialized | Phase 0: CPU (452ms) | Phase 1: IO (371ms) | Phase 2: IO (996ms) | Phase 3: IO (281ms) | Phase 4: IO (613ms)
+New Job Created with Job ID: 30, it's current phase is: 0
+Job 30 has been added to CPU Queue
+Job 31 initialized | Phase 0: CPU (514ms) | Phase 1: IO (429ms) | Phase 2: CPU (326ms) | Phase 3: IO (547ms) | Phase 4: IO (356ms)
+New Job Created with Job ID: 31, it's current phase is: 0
+Job 31 has been added to CPU Queue
+Job 32 initialized | Phase 0: CPU (448ms) | Phase 1: CPU (182ms) | Phase 2: IO (455ms) | Phase 3: IO (255ms) | Phase 4: IO (132ms)
+New Job Created with Job ID: 32, it's current phase is: 0
+Job 32 has been added to CPU Queue
+Job 3 is completed in IO
+Job 3 is queued to Ready Queue
+Job 20 is executing in IO, it will take 259 milliseconds
+Job 13 is completed in CPU
+Job 13 is queued to IO Queue
+Job 25 is executing in CPU, it will take 233 milliseconds
+Job 9 is completed in IO
+Job 9 is queued to Ready Queue
+Job 12 is executing in IO, it will take 990 milliseconds
+Job 5 is completed in CPU
+Job 5 is queued to IO Queue
+Job 26 is executing in CPU, it will take 388 milliseconds
+Job 21 is completed in CPU
+Job 21 is queued to Ready Queue
+Job 27 is executing in CPU, it will take 976 milliseconds
+Job 33 initialized | Phase 0: CPU (933ms) | Phase 1: CPU (724ms) | Phase 2: IO (88ms) | Phase 3: CPU (925ms) | Phase 4: IO (731ms)
+New Job Created with Job ID: 33, it's current phase is: 0
+Job 33 has been added to CPU Queue
+Job 34 initialized | Phase 0: CPU (567ms) | Phase 1: CPU (490ms) | Phase 2: IO (372ms) | Phase 3: CPU (870ms) | Phase 4: IO (754ms)
+New Job Created with Job ID: 34, it's current phase is: 0
+Job 34 has been added to CPU Queue
+Job 35 initialized | Phase 0: CPU (340ms) | Phase 1: IO (434ms) | Phase 2: CPU (797ms) | Phase 3: IO (836ms) | Phase 4: IO (356ms)
+New Job Created with Job ID: 35, it's current phase is: 0
+Job 35 has been added to CPU Queue
+Job 36 initialized | Phase 0: CPU (81ms) | Phase 1: CPU (916ms) | Phase 2: IO (378ms) | Phase 3: CPU (255ms) | Phase 4: IO (377ms)
+New Job Created with Job ID: 36, it's current phase is: 0
+Job 36 has been added to CPU Queue
+Job 4 is completed in IO
+Job 4 is queued to IO Queue
+Job 18 is executing in IO, it will take 120 milliseconds
+Job 20 is completed in IO
+Job 20 is queued to IO Queue
+Job 15 is executing in IO, it will take 854 milliseconds
+Job 25 is completed in CPU
+Job 25 is queued to IO Queue
+Job 28 is executing in CPU, it will take 941 milliseconds
+Job 17 is completed in CPU
+Job 17 is queued to Ready Queue
+Job 14 is executing in CPU, it will take 56 milliseconds
+Job 18 is completed in IO
+Job 18 is queued to Ready Queue
+Job 11 is executing in IO, it will take 19 milliseconds
+Job 24 is completed in CPU
+Job 24 is queued to Ready Queue
+Job 1 is executing in CPU, it will take 435 milliseconds
+Job 11 is completed in IO
+Job 11 is queued to IO Queue
+Job 16 is executing in IO, it will take 857 milliseconds
+Job 14 is completed in CPU
+Job 14 is queued to IO Queue
+Job 23 is executing in CPU, it will take 584 milliseconds
+Job 26 is completed in CPU
+Job 26 is queued to IO Queue
+Job 29 is executing in CPU, it will take 440 milliseconds
+Job 7 is completed in IO
+Job 7 is queued to IO Queue
+Job 6 is executing in IO, it will take 433 milliseconds
+Job 37 initialized | Phase 0: CPU (657ms) | Phase 1: IO (364ms) | Phase 2: CPU (131ms) | Phase 3: IO (844ms) | Phase 4: CPU (989ms)
+New Job Created with Job ID: 37, it's current phase is: 0
+Job 37 has been added to CPU Queue
+Job 38 initialized | Phase 0: CPU (442ms) | Phase 1: IO (828ms) | Phase 2: IO (696ms) | Phase 3: CPU (839ms) | Phase 4: IO (634ms)
+New Job Created with Job ID: 38, it's current phase is: 0
+Job 38 has been added to CPU Queue
+Job 39 initialized | Phase 0: CPU (788ms) | Phase 1: CPU (530ms) | Phase 2: IO (173ms) | Phase 3: CPU (107ms) | Phase 4: CPU (15ms)
+New Job Created with Job ID: 39, it's current phase is: 0
+Job 39 has been added to CPU Queue
+Job 40 initialized | Phase 0: CPU (399ms) | Phase 1: IO (44ms) | Phase 2: IO (478ms) | Phase 3: CPU (528ms) | Phase 4: CPU (607ms)
+New Job Created with Job ID: 40, it's current phase is: 0
+Job 40 has been added to CPU Queue
+Job 8 is completed in CPU
+Job 8 is queued to Ready Queue
+Job 30 is executing in CPU, it will take 452 milliseconds
+Job 2 is completed in CPU
+Job 2 is queued to IO Queue
+Job 31 is executing in CPU, it will take 514 milliseconds
+Job 1 is completed in CPU
+Job 1 is queued to IO Queue
+Job 32 is executing in CPU, it will take 448 milliseconds
+Job 10 is completed in CPU
+Job 10 is queued to Ready Queue
+Job 3 is executing in CPU, it will take 808 milliseconds
+Job 41 initialized | Phase 0: CPU (570ms) | Phase 1: IO (293ms) | Phase 2: IO (380ms) | Phase 3: IO (492ms) | Phase 4: IO (24ms)
+New Job Created with Job ID: 41, it's current phase is: 0
+Job 41 has been added to CPU Queue
+Job 42 initialized | Phase 0: CPU (124ms) | Phase 1: CPU (449ms) | Phase 2: CPU (758ms) | Phase 3: CPU (34ms) | Phase 4: IO (803ms)
+New Job Created with Job ID: 42, it's current phase is: 0
+Job 42 has been added to CPU Queue
+Job 43 initialized | Phase 0: CPU (267ms) | Phase 1: IO (642ms) | Phase 2: IO (439ms) | Phase 3: IO (995ms) | Phase 4: CPU (420ms)
+New Job Created with Job ID: 43, it's current phase is: 0
+Job 43 has been added to CPU Queue
+Job 44 initialized | Phase 0: CPU (447ms) | Phase 1: IO (336ms) | Phase 2: IO (828ms) | Phase 3: IO (932ms) | Phase 4: CPU (451ms)
+New Job Created with Job ID: 44, it's current phase is: 0
+Job 44 has been added to CPU Queue
+Job 29 is completed in CPU
+Job 29 is queued to Ready Queue
+Job 9 is executing in CPU, it will take 124 milliseconds
+Job 6 is completed in IO
+Job 6 is set to completed
+Job 6 is queued to Finished Queue
+Job 22 is executing in IO, it will take 662 milliseconds
+Job 23 is completed in CPU
+Job 23 is queued to Ready Queue
+Job 21 is executing in CPU, it will take 661 milliseconds
+Job 12 is completed in IO
+Job 12 is queued to IO Queue
+Job 19 is executing in IO, it will take 395 milliseconds
+Job 30 is completed in CPU
+Job 30 is queued to IO Queue
+Job 33 is executing in CPU, it will take 933 milliseconds
+Job 9 is completed in CPU
+Job 9 is queued to IO Queue
+Job 34 is executing in CPU, it will take 567 milliseconds
+Job 15 is completed in IO
+Job 15 is queued to Ready Queue
+Job 13 is executing in IO, it will take 532 milliseconds
+Job 45 initialized | Phase 0: CPU (359ms) | Phase 1: IO (848ms) | Phase 2: IO (988ms) | Phase 3: CPU (756ms) | Phase 4: CPU (6ms)
+New Job Created with Job ID: 45, it's current phase is: 0
+Job 45 has been added to CPU Queue
+Job 6 has finished and been dequeued from Finish Queue
+DEBUG: Finished 1 / 100 jobs
+Job 46 initialized | Phase 0: CPU (126ms) | Phase 1: IO (765ms) | Phase 2: CPU (399ms) | Phase 3: CPU (823ms) | Phase 4: CPU (438ms)
+New Job Created with Job ID: 46, it's current phase is: 0
+Job 46 has been added to CPU Queue
+Job 47 initialized | Phase 0: CPU (808ms) | Phase 1: IO (646ms) | Phase 2: IO (656ms) | Phase 3: IO (450ms) | Phase 4: CPU (77ms)
+New Job Created with Job ID: 47, it's current phase is: 0
+Job 47 has been added to CPU Queue
+Job 48 initialized | Phase 0: CPU (878ms) | Phase 1: IO (812ms) | Phase 2: IO (470ms) | Phase 3: IO (713ms) | Phase 4: IO (766ms)
+New Job Created with Job ID: 48, it's current phase is: 0
+Job 48 has been added to CPU Queue
+Job 27 is completed in CPU
+Job 27 is queued to Ready Queue
+Job 35 is executing in CPU, it will take 340 milliseconds
+Job 28 is completed in CPU
+Job 28 is queued to Ready Queue
+Job 36 is executing in CPU, it will take 81 milliseconds
+Job 16 is completed in IO
+Job 16 is queued to Ready Queue
+Job 5 is executing in IO, it will take 906 milliseconds
+Job 31 is completed in CPU
+Job 31 is queued to IO Queue
+Job 17 is executing in CPU, it will take 151 milliseconds
+Job 32 is completed in CPU
+Job 32 is queued to Ready Queue
+Job 18 is executing in CPU, it will take 491 milliseconds
+Job 36 is completed in CPU
+Job 36 is queued to Ready Queue
+Job 24 is executing in CPU, it will take 69 milliseconds
+Job 24 is completed in CPU
+Job 24 is queued to Ready Queue
+Job 37 is executing in CPU, it will take 657 milliseconds
+Job 17 is completed in CPU
+Job 17 is queued to IO Queue
+Job 38 is executing in CPU, it will take 442 milliseconds
+Job 49 initialized | Phase 0: CPU (688ms) | Phase 1: CPU (160ms) | Phase 2: IO (422ms) | Phase 3: CPU (457ms) | Phase 4: IO (832ms)
+New Job Created with Job ID: 49, it's current phase is: 0
+Job 49 has been added to CPU Queue
+Job 50 initialized | Phase 0: CPU (439ms) | Phase 1: CPU (422ms) | Phase 2: IO (257ms) | Phase 3: CPU (360ms) | Phase 4: IO (486ms)
+New Job Created with Job ID: 50, it's current phase is: 0
+Job 50 has been added to CPU Queue
+Job 51 initialized | Phase 0: CPU (251ms) | Phase 1: IO (761ms) | Phase 2: CPU (794ms) | Phase 3: IO (546ms) | Phase 4: IO (242ms)
+New Job Created with Job ID: 51, it's current phase is: 0
+Job 51 has been added to CPU Queue
+Job 52 initialized | Phase 0: CPU (780ms) | Phase 1: IO (785ms) | Phase 2: IO (463ms) | Phase 3: IO (730ms) | Phase 4: CPU (290ms)
+New Job Created with Job ID: 52, it's current phase is: 0
+Job 52 has been added to CPU Queue
+Job 19 is completed in IO
+Job 19 is queued to IO Queue
+Job 4 is executing in IO, it will take 193 milliseconds
+Job 35 is completed in CPU
+Job 35 is queued to IO Queue
+Job 39 is executing in CPU, it will take 788 milliseconds
+Job 22 is completed in IO
+Job 22 is queued to IO Queue
+Job 20 is executing in IO, it will take 234 milliseconds
+Job 3 is completed in CPU
+Job 3 is set to completed
+Job 3 is queued to Finished Queue
+Job 40 is executing in CPU, it will take 399 milliseconds
+Job 13 is completed in IO
+Job 21 is completed in CPU
+Job 13 is queued to Ready Queue
+Job 21 is queued to IO Queue
+Job 8 is executing in CPU, it will take 393 milliseconds
+Job 25 is executing in IO, it will take 99 milliseconds
+Job 34 is completed in CPU
+Job 34 is queued to Ready Queue
+Job 10 is executing in CPU, it will take 414 milliseconds
+Job 4 is completed in IO
+Job 4 is queued to Ready Queue
+Job 11 is executing in IO, it will take 185 milliseconds
+Job 25 is completed in IO
+Job 25 is queued to IO Queue
+Job 14 is executing in IO, it will take 173 milliseconds
+Job 53 initialized | Phase 0: CPU (40ms) | Phase 1: CPU (573ms) | Phase 2: IO (591ms) | Phase 3: CPU (643ms) | Phase 4: CPU (270ms)
+New Job Created with Job ID: 53, it's current phase is: 0
+Job 53 has been added to CPU Queue
+Job 3 has finished and been dequeued from Finish Queue
+DEBUG: Finished 2 / 100 jobs
+Job 54 initialized | Phase 0: CPU (904ms) | Phase 1: CPU (641ms) | Phase 2: IO (281ms) | Phase 3: IO (143ms) | Phase 4: IO (436ms)
+New Job Created with Job ID: 54, it's current phase is: 0
+Job 54 has been added to CPU Queue
+Job 55 initialized | Phase 0: CPU (261ms) | Phase 1: CPU (568ms) | Phase 2: IO (280ms) | Phase 3: CPU (692ms) | Phase 4: IO (10ms)
+New Job Created with Job ID: 55, it's current phase is: 0
+Job 55 has been added to CPU Queue
+Job 18 is completed in CPU
+Job 18 is queued to IO Queue
+Job 41 is executing in CPU, it will take 570 milliseconds
+Job 56 initialized | Phase 0: CPU (639ms) | Phase 1: CPU (379ms) | Phase 2: CPU (345ms) | Phase 3: IO (107ms) | Phase 4: IO (324ms)
+New Job Created with Job ID: 56, it's current phase is: 0
+Job 56 has been added to CPU Queue
+Job 38 is completed in CPU
+Job 38 is queued to IO Queue
+Job 42 is executing in CPU, it will take 124 milliseconds
+Job 11 is completed in IO
+Job 11 is queued to Ready Queue
+Job 26 is executing in IO, it will take 632 milliseconds
+Job 20 is completed in IO
+Job 20 is queued to Ready Queue
+Job 7 is executing in IO, it will take 305 milliseconds
+Job 14 is completed in IO
+Job 14 is queued to IO Queue
+Job 2 is executing in IO, it will take 20 milliseconds
+Job 2 is completed in IO
+Job 2 is set to completed
+Job 2 is queued to Finished Queue
+Job 1 is executing in IO, it will take 272 milliseconds
+Job 42 is completed in CPU
+Job 42 is queued to Ready Queue
+Job 43 is executing in CPU, it will take 267 milliseconds
+Job 33 is completed in CPU
+Job 33 is queued to Ready Queue
+Job 44 is executing in CPU, it will take 447 milliseconds
+Job 37 is completed in CPU
+Job 37 is queued to IO Queue
+Job 29 is executing in CPU, it will take 781 milliseconds
+Job 40 is completed in CPU
+Job 40 is queued to IO Queue
+Job 23 is executing in CPU, it will take 786 milliseconds
+Job 8 is completed in CPU
+Job 8 is set to completed
+Job 8 is queued to Finished Queue
+Job 15 is executing in CPU, it will take 575 milliseconds
+Job 57 initialized | Phase 0: CPU (975ms) | Phase 1: CPU (601ms) | Phase 2: CPU (397ms) | Phase 3: CPU (165ms) | Phase 4: IO (728ms)
+New Job Created with Job ID: 57, it's current phase is: 0
+Job 57 has been added to CPU Queue
+Job 2 has finished and been dequeued from Finish Queue
+DEBUG: Finished 3 / 100 jobs
+Job 58 initialized | Phase 0: CPU (99ms) | Phase 1: CPU (715ms) | Phase 2: IO (579ms) | Phase 3: CPU (116ms) | Phase 4: IO (536ms)
+New Job Created with Job ID: 58, it's current phase is: 0
+Job 58 has been added to CPU Queue
+Job 8 has finished and been dequeued from Finish Queue
+DEBUG: Finished 4 / 100 jobs
+Job 59 initialized | Phase 0: CPU (780ms) | Phase 1: IO (264ms) | Phase 2: IO (361ms) | Phase 3: CPU (639ms) | Phase 4: CPU (549ms)
+New Job Created with Job ID: 59, it's current phase is: 0
+Job 59 has been added to CPU Queue
+Job 60 initialized | Phase 0: CPU (540ms) | Phase 1: IO (192ms) | Phase 2: CPU (412ms) | Phase 3: CPU (400ms) | Phase 4: CPU (772ms)
+New Job Created with Job ID: 60, it's current phase is: 0
+Job 60 has been added to CPU Queue
+Job 10 is completed in CPU
+Job 10 is set to completed
+Job 10 is queued to Finished Queue
+Job 45 is executing in CPU, it will take 359 milliseconds
+Job 5 is completed in IO
+Job 5 is queued to IO Queue
+Job 12 is executing in IO, it will take 130 milliseconds
+Job 7 is completed in IO
+Job 7 is queued to Ready Queue
+Job 30 is executing in IO, it will take 371 milliseconds
+Job 1 is completed in IO
+Job 1 is set to completed
+Job 1 is queued to Finished Queue
+Job 9 is executing in IO, it will take 454 milliseconds
+Job 43 is completed in CPU
+Job 43 is queued to IO Queue
+Job 46 is executing in CPU, it will take 126 milliseconds
+Job 12 is completed in IO
+Job 12 is queued to IO Queue
+Job 31 is executing in IO, it will take 429 milliseconds
+Job 39 is completed in CPU
+Job 39 is queued to Ready Queue
+Job 47 is executing in CPU, it will take 808 milliseconds
+Job 41 is completed in CPU
+Job 41 is queued to IO Queue
+Job 48 is executing in CPU, it will take 878 milliseconds
+Job 61 initialized | Phase 0: CPU (962ms) | Phase 1: CPU (188ms) | Phase 2: CPU (185ms) | Phase 3: CPU (621ms) | Phase 4: CPU (280ms)
+New Job Created with Job ID: 61, it's current phase is: 0
+Job 61 has been added to CPU Queue
+Job 10 has finished and been dequeued from Finish Queue
+DEBUG: Finished 5 / 100 jobs
+Job 62 initialized | Phase 0: CPU (792ms) | Phase 1: IO (523ms) | Phase 2: CPU (758ms) | Phase 3: IO (439ms) | Phase 4: CPU (814ms)
+New Job Created with Job ID: 62, it's current phase is: 0
+Job 62 has been added to CPU Queue
+Job 1 has finished and been dequeued from Finish Queue
+DEBUG: Finished 6 / 100 jobs
+Job 63 initialized | Phase 0: CPU (698ms) | Phase 1: IO (539ms) | Phase 2: CPU (773ms) | Phase 3: IO (848ms) | Phase 4: CPU (193ms)
+New Job Created with Job ID: 63, it's current phase is: 0
+Job 63 has been added to CPU Queue
+Job 64 initialized | Phase 0: CPU (438ms) | Phase 1: IO (389ms) | Phase 2: IO (898ms) | Phase 3: CPU (359ms) | Phase 4: IO (100ms)
+New Job Created with Job ID: 64, it's current phase is: 0
+Job 64 has been added to CPU Queue
+Job 46 is completed in CPU
+Job 46 is queued to IO Queue
+Job 27 is executing in CPU, it will take 530 milliseconds
+Job 45 is completed in CPU
+Job 45 is queued to IO Queue
+Job 28 is executing in CPU, it will take 238 milliseconds
+Job 44 is completed in CPU
+Job 44 is queued to IO Queue
+Job 16 is executing in CPU, it will take 654 milliseconds
+Job 26 is completed in IO
+Job 26 is queued to IO Queue
+Job 17 is executing in IO, it will take 753 milliseconds
+Job 30 is completed in IO
+Job 30 is queued to IO Queue
+Job 19 is executing in IO, it will take 255 milliseconds
+Job 15 is completed in CPU
+Job 15 is queued to IO Queue
+Job 32 is executing in CPU, it will take 182 milliseconds
+Job 65 initialized | Phase 0: CPU (169ms) | Phase 1: CPU (242ms) | Phase 2: IO (835ms) | Phase 3: CPU (149ms) | Phase 4: IO (339ms)
+New Job Created with Job ID: 65, it's current phase is: 0
+Job 65 has been added to CPU Queue
+Job 66 initialized | Phase 0: CPU (87ms) | Phase 1: CPU (50ms) | Phase 2: CPU (957ms) | Phase 3: IO (209ms) | Phase 4: CPU (289ms)
+New Job Created with Job ID: 66, it's current phase is: 0
+Job 66 has been added to CPU Queue
+Job 67 initialized | Phase 0: CPU (723ms) | Phase 1: CPU (527ms) | Phase 2: IO (975ms) | Phase 3: CPU (936ms) | Phase 4: CPU (301ms)
+New Job Created with Job ID: 67, it's current phase is: 0
+Job 67 has been added to CPU Queue
+Job 68 initialized | Phase 0: CPU (372ms) | Phase 1: CPU (345ms) | Phase 2: IO (895ms) | Phase 3: IO (421ms) | Phase 4: IO (281ms)
+New Job Created with Job ID: 68, it's current phase is: 0
+Job 68 has been added to CPU Queue
+Job 9 is completed in IO
+Job 9 is queued to IO Queue
+Job 35 is executing in IO, it will take 434 milliseconds
+Job 28 is completed in CPU
+Job 28 is queued to IO Queue
+Job 36 is executing in CPU, it will take 916 milliseconds
+Job 31 is completed in IO
+Job 31 is queued to Ready Queue
+Job 22 is executing in IO, it will take 712 milliseconds
+Job 32 is completed in CPU
+Job 32 is queued to IO Queue
+Job 24 is executing in CPU, it will take 133 milliseconds
+Job 19 is completed in IO
+Job 19 is queued to Ready Queue
+Job 21 is executing in IO, it will take 578 milliseconds
+Job 29 is completed in CPU
+Job 29 is queued to Ready Queue
+Job 49 is executing in CPU, it will take 688 milliseconds
+Job 23 is completed in CPU
+Job 23 is queued to IO Queue
+Job 50 is executing in CPU, it will take 439 milliseconds
+Job 27 is completed in CPU
+Job 27 is queued to Ready Queue
+Job 51 is executing in CPU, it will take 251 milliseconds
+Job 24 is completed in CPU
+Job 24 is queued to Ready Queue
+Job 52 is executing in CPU, it will take 780 milliseconds
+Job 69 initialized | Phase 0: CPU (787ms) | Phase 1: IO (88ms) | Phase 2: IO (626ms) | Phase 3: IO (116ms) | Phase 4: CPU (31ms)
+New Job Created with Job ID: 69, it's current phase is: 0
+Job 69 has been added to CPU Queue
+Job 70 initialized | Phase 0: CPU (498ms) | Phase 1: CPU (817ms) | Phase 2: CPU (820ms) | Phase 3: IO (442ms) | Phase 4: IO (612ms)
+New Job Created with Job ID: 70, it's current phase is: 0
+Job 70 has been added to CPU Queue
+Job 71 initialized | Phase 0: CPU (945ms) | Phase 1: CPU (482ms) | Phase 2: CPU (649ms) | Phase 3: CPU (344ms) | Phase 4: CPU (286ms)
+New Job Created with Job ID: 71, it's current phase is: 0
+Job 71 has been added to CPU Queue
+Job 72 initialized | Phase 0: CPU (334ms) | Phase 1: IO (812ms) | Phase 2: CPU (405ms) | Phase 3: CPU (35ms) | Phase 4: CPU (65ms)
+New Job Created with Job ID: 72, it's current phase is: 0
+Job 72 has been added to CPU Queue
+Job 35 is completed in IO
+Job 35 is queued to Ready Queue
+Job 25 is executing in IO, it will take 231 milliseconds
+Job 16 is completed in CPU
+Job 16 is queued to IO Queue
+Job 13 is executing in CPU, it will take 206 milliseconds
+Job 47 is completed in CPU
+Job 47 is queued to IO Queue
+Job 34 is executing in CPU, it will take 490 milliseconds
+Job 51 is completed in CPU
+Job 51 is queued to IO Queue
+Job 4 is executing in CPU, it will take 938 milliseconds
+Job 48 is completed in CPU
+Job 48 is queued to IO Queue
+Job 53 is executing in CPU, it will take 40 milliseconds
+Job 53 is completed in CPU
+Job 53 is queued to Ready Queue
+Job 17 is completed in IO
+Job 17 is queued to IO Queue
+Job 18 is executing in IO, it will take 857 milliseconds
+Job 54 is executing in CPU, it will take 904 milliseconds
+Job 73 initialized | Phase 0: CPU (791ms) | Phase 1: IO (123ms) | Phase 2: CPU (311ms) | Phase 3: IO (454ms) | Phase 4: CPU (449ms)
+New Job Created with Job ID: 73, it's current phase is: 0
+Job 73 has been added to CPU Queue
+Job 74 initialized | Phase 0: CPU (894ms) | Phase 1: CPU (948ms) | Phase 2: IO (373ms) | Phase 3: CPU (536ms) | Phase 4: IO (644ms)
+New Job Created with Job ID: 74, it's current phase is: 0
+Job 74 has been added to CPU Queue
+Job 50 is completed in CPU
+Job 50 is queued to Ready Queue
+Job 55 is executing in CPU, it will take 261 milliseconds
+Job 75 initialized | Phase 0: CPU (711ms) | Phase 1: CPU (460ms) | Phase 2: IO (338ms) | Phase 3: CPU (817ms) | Phase 4: CPU (579ms)
+New Job Created with Job ID: 75, it's current phase is: 0
+Job 75 has been added to CPU Queue
+Job 76 initialized | Phase 0: CPU (839ms) | Phase 1: CPU (365ms) | Phase 2: IO (75ms) | Phase 3: CPU (263ms) | Phase 4: CPU (271ms)
+New Job Created with Job ID: 76, it's current phase is: 0
+Job 76 has been added to CPU Queue
+Job 13 is completed in CPU
+Job 13 is queued to IO Queue
+Job 56 is executing in CPU, it will take 639 milliseconds
+Job 25 is completed in IO
+Job 25 is queued to Ready Queue
+Job 38 is executing in IO, it will take 828 milliseconds
+Job 21 is completed in IO
+Job 21 is queued to IO Queue
+Job 14 is executing in IO, it will take 498 milliseconds
+Job 22 is completed in IO
+Job 22 is queued to Ready Queue
+Job 37 is executing in IO, it will take 364 milliseconds
+Job 49 is completed in CPU
+Job 49 is queued to Ready Queue
+Job 11 is executing in CPU, it will take 684 milliseconds
+Job 55 is completed in CPU
+Job 55 is queued to Ready Queue
+Job 20 is executing in CPU, it will take 673 milliseconds
+Job 77 initialized | Phase 0: CPU (707ms) | Phase 1: IO (304ms) | Phase 2: CPU (733ms) | Phase 3: IO (653ms) | Phase 4: IO (168ms)
+New Job Created with Job ID: 77, it's current phase is: 0
+Job 77 has been added to CPU Queue
+Job 78 initialized | Phase 0: CPU (670ms) | Phase 1: CPU (696ms) | Phase 2: CPU (678ms) | Phase 3: IO (425ms) | Phase 4: CPU (711ms)
+New Job Created with Job ID: 78, it's current phase is: 0
+Job 78 has been added to CPU Queue
+Job 79 initialized | Phase 0: CPU (831ms) | Phase 1: IO (742ms) | Phase 2: CPU (335ms) | Phase 3: IO (941ms) | Phase 4: IO (253ms)
+New Job Created with Job ID: 79, it's current phase is: 0
+Job 79 has been added to CPU Queue
+Job 80 initialized | Phase 0: CPU (355ms) | Phase 1: CPU (69ms) | Phase 2: CPU (998ms) | Phase 3: IO (55ms) | Phase 4: CPU (27ms)
+New Job Created with Job ID: 80, it's current phase is: 0
+Job 80 has been added to CPU Queue
+Job 36 is completed in CPU
+Job 36 is queued to IO Queue
+Job 42 is executing in CPU, it will take 449 milliseconds
+Job 34 is completed in CPU
+Job 34 is queued to IO Queue
+Job 33 is executing in CPU, it will take 724 milliseconds
+Job 52 is completed in CPU
+Job 52 is queued to IO Queue
+Job 57 is executing in CPU, it will take 975 milliseconds
+Job 37 is completed in IO
+Job 37 is queued to Ready Queue
+Job 40 is executing in IO, it will take 44 milliseconds
+Job 40 is completed in IO
+Job 40 is queued to IO Queue
+Job 5 is executing in IO, it will take 156 milliseconds
+Job 81 initialized | Phase 0: CPU (549ms) | Phase 1: CPU (750ms) | Phase 2: IO (504ms) | Phase 3: CPU (495ms) | Phase 4: IO (853ms)
+New Job Created with Job ID: 81, it's current phase is: 0
+Job 81 has been added to CPU Queue
+Job 83 initialized | Phase 0: CPU (628ms) | Phase 1: CPU (677ms) | Phase 2: IO (570ms) | Phase 3: IO (204ms) | Phase 4: IO (934ms)
+New Job Created with Job ID: 83, it's current phase is: 0
+Job 83 has been added to CPU Queue
+Job 82 initialized | Phase 0: CPU (211ms) | Phase 1: CPU (852ms) | Phase 2: CPU (801ms) | Phase 3: IO (776ms) | Phase 4: CPU (377ms)
+New Job Created with Job ID: 82, it's current phase is: 0
+Job 82 has been added to CPU Queue
+Job 84 initialized | Phase 0: CPU (233ms) | Phase 1: IO (362ms) | Phase 2: IO (230ms) | Phase 3: IO (765ms) | Phase 4: IO (178ms)
+New Job Created with Job ID: 84, it's current phase is: 0
+Job 84 has been added to CPU Queue
+Job 14 is completed in IO
+Job 14 is queued to Ready Queue
+Job 43 is executing in IO, it will take 642 milliseconds
+Job 56 is completed in CPU
+Job 56 is queued to Ready Queue
+Job 58 is executing in CPU, it will take 99 milliseconds
+Job 5 is completed in IO
+Job 5 is queued to IO Queue
+Job 12 is executing in IO, it will take 290 milliseconds
+Job 42 is completed in CPU
+Job 42 is queued to Ready Queue
+Job 59 is executing in CPU, it will take 780 milliseconds
+Job 58 is completed in CPU
+Job 58 is queued to Ready Queue
+Job 60 is executing in CPU, it will take 540 milliseconds
+Job 4 is completed in CPU
+Job 4 is set to completed
+Job 4 is queued to Finished Queue
+Job 7 is executing in CPU, it will take 70 milliseconds
+Job 18 is completed in IO
+Job 18 is queued to Ready Queue
+Job 41 is executing in IO, it will take 293 milliseconds
+Job 54 is completed in CPU
+Job 54 is queued to Ready Queue
+Job 39 is executing in CPU, it will take 530 milliseconds
+Job 85 initialized | Phase 0: CPU (86ms) | Phase 1: CPU (851ms) | Phase 2: IO (647ms) | Phase 3: IO (611ms) | Phase 4: IO (881ms)
+New Job Created with Job ID: 85, it's current phase is: 0
+Job 85 has been added to CPU Queue
+Job 4 has finished and been dequeued from Finish Queue
+DEBUG: Finished 7 / 100 jobs
+Job 86 initialized | Phase 0: CPU (905ms) | Phase 1: CPU (937ms) | Phase 2: CPU (97ms) | Phase 3: CPU (5ms) | Phase 4: IO (967ms)
+New Job Created with Job ID: 86, it's current phase is: 0
+Job 86 has been added to CPU Queue
+Job 87 initialized | Phase 0: CPU (270ms) | Phase 1: IO (534ms) | Phase 2: IO (810ms) | Phase 3: IO (389ms) | Phase 4: CPU (393ms)
+New Job Created with Job ID: 87, it's current phase is: 0
+Job 87 has been added to CPU Queue
+Job 7 is completed in CPU
+Job 7 is set to completed
+Job 7 is queued to Finished Queue
+Job 61 is executing in CPU, it will take 962 milliseconds
+Job 38 is completed in IO
+Job 38 is queued to IO Queue
+Job 46 is executing in IO, it will take 765 milliseconds
+Job 88 initialized | Phase 0: CPU (523ms) | Phase 1: CPU (837ms) | Phase 2: IO (921ms) | Phase 3: IO (931ms) | Phase 4: IO (865ms)
+New Job Created with Job ID: 88, it's current phase is: 0
+Job 88 has been added to CPU Queue
+Job 7 has finished and been dequeued from Finish Queue
+DEBUG: Finished 8 / 100 jobs
+Job 11 is completed in CPU
+Job 11 is set to completed
+Job 11 is queued to Finished Queue
+Job 62 is executing in CPU, it will take 792 milliseconds
+Job 20 is completed in CPU
+Job 20 is queued to IO Queue
+Job 63 is executing in CPU, it will take 698 milliseconds
+Job 12 is completed in IO
+Job 12 is queued to Ready Queue
+Job 45 is executing in IO, it will take 848 milliseconds
+Job 33 is completed in CPU
+Job 33 is queued to IO Queue
+Job 64 is executing in CPU, it will take 438 milliseconds
+Job 41 is completed in IO
+Job 41 is queued to IO Queue
+Job 44 is executing in IO, it will take 336 milliseconds
+Job 89 initialized | Phase 0: CPU (860ms) | Phase 1: CPU (234ms) | Phase 2: CPU (473ms) | Phase 3: CPU (468ms) | Phase 4: CPU (128ms)
+New Job Created with Job ID: 89, it's current phase is: 0
+Job 89 has been added to CPU Queue
+Job 11 has finished and been dequeued from Finish Queue
+DEBUG: Finished 9 / 100 jobs
+Job 90 initialized | Phase 0: CPU (848ms) | Phase 1: IO (597ms) | Phase 2: CPU (851ms) | Phase 3: IO (795ms) | Phase 4: IO (674ms)
+New Job Created with Job ID: 90, it's current phase is: 0
+Job 90 has been added to CPU Queue
+Job 91 initialized | Phase 0: CPU (972ms) | Phase 1: IO (635ms) | Phase 2: CPU (595ms) | Phase 3: CPU (931ms) | Phase 4: CPU (315ms)
+New Job Created with Job ID: 91, it's current phase is: 0
+Job 91 has been added to CPU Queue
+Job 92 initialized | Phase 0: CPU (282ms) | Phase 1: IO (877ms) | Phase 2: CPU (955ms) | Phase 3: IO (715ms) | Phase 4: IO (697ms)
+New Job Created with Job ID: 92, it's current phase is: 0
+Job 92 has been added to CPU Queue
+Job 43 is completed in IO
+Job 43 is queued to IO Queue
+Job 26 is executing in IO, it will take 220 milliseconds
+Job 60 is completed in CPU
+Job 60 is queued to IO Queue
+Job 65 is executing in CPU, it will take 169 milliseconds
+Job 39 is completed in CPU
+Job 39 is queued to IO Queue
+Job 66 is executing in CPU, it will take 87 milliseconds
+Job 57 is completed in CPU
+Job 57 is queued to Ready Queue
+Job 67 is executing in CPU, it will take 723 milliseconds
+Job 44 is completed in IO
+Job 44 is queued to IO Queue
+Job 30 is executing in IO, it will take 996 milliseconds
+Job 26 is completed in IO
+Job 26 is queued to Ready Queue
+Job 15 is executing in IO, it will take 318 milliseconds
+Job 66 is completed in CPU
+Job 66 is queued to Ready Queue
+Job 68 is executing in CPU, it will take 372 milliseconds
+Job 93 initialized | Phase 0: CPU (422ms) | Phase 1: IO (693ms) | Phase 2: IO (957ms) | Phase 3: IO (182ms) | Phase 4: IO (732ms)
+New Job Created with Job ID: 93, it's current phase is: 0
+Job 93 has been added to CPU Queue
+Job 94 initialized | Phase 0: CPU (407ms) | Phase 1: CPU (179ms) | Phase 2: CPU (961ms) | Phase 3: CPU (84ms) | Phase 4: IO (76ms)
+New Job Created with Job ID: 94, it's current phase is: 0
+Job 94 has been added to CPU Queue
+Job 95 initialized | Phase 0: CPU (192ms) | Phase 1: CPU (657ms) | Phase 2: IO (843ms) | Phase 3: IO (415ms) | Phase 4: IO (456ms)
+New Job Created with Job ID: 95, it's current phase is: 0
+Job 95 has been added to CPU Queue
+Job 96 initialized | Phase 0: CPU (741ms) | Phase 1: CPU (576ms) | Phase 2: IO (470ms) | Phase 3: CPU (51ms) | Phase 4: IO (381ms)
+New Job Created with Job ID: 96, it's current phase is: 0
+Job 96 has been added to CPU Queue
+Job 64 is completed in CPU
+Job 64 is queued to IO Queue
+Job 31 is executing in CPU, it will take 326 milliseconds
+Job 65 is completed in CPU
+Job 65 is queued to Ready Queue
+Job 19 is executing in CPU, it will take 540 milliseconds
+Job 59 is completed in CPU
+Job 59 is queued to IO Queue
+Job 29 is executing in CPU, it will take 422 milliseconds
+Job 63 is completed in CPU
+Job 63 is queued to IO Queue
+Job 27 is executing in CPU, it will take 361 milliseconds
+Job 46 is completed in IO
+Job 46 is queued to Ready Queue
+Job 9 is executing in IO, it will take 680 milliseconds
+Job 62 is completed in CPU
+Job 62 is queued to IO Queue
+Job 24 is executing in CPU, it will take 519 milliseconds
+Job 15 is completed in IO
+Job 15 is queued to Ready Queue
+Job 28 is executing in IO, it will take 430 milliseconds
+Job 97 initialized | Phase 0: CPU (136ms) | Phase 1: IO (818ms) | Phase 2: IO (767ms) | Phase 3: CPU (148ms) | Phase 4: IO (104ms)
+New Job Created with Job ID: 97, it's current phase is: 0
+Job 97 has been added to CPU Queue
+Job 98 initialized | Phase 0: CPU (500ms) | Phase 1: IO (706ms) | Phase 2: IO (920ms) | Phase 3: CPU (165ms) | Phase 4: IO (688ms)
+New Job Created with Job ID: 98, it's current phase is: 0
+Job 98 has been added to CPU Queue
+Job 99 initialized | Phase 0: CPU (785ms) | Phase 1: IO (173ms) | Phase 2: CPU (790ms) | Phase 3: CPU (853ms) | Phase 4: CPU (212ms)
+New Job Created with Job ID: 99, it's current phase is: 0
+Job 99 has been added to CPU Queue
+Job 100 initialized | Phase 0: CPU (231ms) | Phase 1: IO (512ms) | Phase 2: CPU (762ms) | Phase 3: CPU (387ms) | Phase 4: IO (446ms)
+New Job Created with Job ID: 100, it's current phase is: 0
+Job 100 has been added to CPU Queue
+Job 31 is completed in CPU
+Job 31 is queued to IO Queue
+Job 69 is executing in CPU, it will take 787 milliseconds
+Job 61 is completed in CPU
+Job 61 is queued to Ready Queue
+Job 70 is executing in CPU, it will take 498 milliseconds
+Job 68 is completed in CPU
+Job 68 is queued to Ready Queue
+Job 71 is executing in CPU, it will take 945 milliseconds
+Job 45 is completed in IO
+Job 45 is queued to IO Queue
+Job 32 is executing in IO, it will take 455 milliseconds
+Job 29 is completed in CPU
+Job 29 is queued to Ready Queue
+Job 72 is executing in CPU, it will take 334 milliseconds
+Job 27 is completed in CPU
+Job 27 is queued to IO Queue
+Job 35 is executing in CPU, it will take 797 milliseconds
+Job 19 is completed in CPU
+Job 19 is queued to Ready Queue
+Job 53 is executing in CPU, it will take 573 milliseconds
+Job 67 is completed in CPU
+Job 67 is queued to Ready Queue
+Job 73 is executing in CPU, it will take 791 milliseconds
+Job 28 is completed in IO
+Job 28 is queued to IO Queue
+Job 23 is executing in IO, it will take 479 milliseconds
+Job 24 is completed in CPU
+Job 24 is queued to Ready Queue
+Job 74 is executing in CPU, it will take 894 milliseconds
+Job 72 is completed in CPU
+Job 72 is queued to IO Queue
+Job 50 is executing in CPU, it will take 422 milliseconds
+Job 32 is completed in IO
+Job 32 is queued to IO Queue
+Job 16 is executing in IO, it will take 569 milliseconds
+Job 9 is completed in IO
+Job 9 is set to completed
+Job 9 is queued to Finished Queue
+Job 47 is executing in IO, it will take 646 milliseconds
+Job 70 is completed in CPU
+Job 70 is queued to Ready Queue
+Job 75 is executing in CPU, it will take 711 milliseconds
+Job 9 has finished and been dequeued from Finish Queue
+DEBUG: Finished 10 / 100 jobs
+Job 30 is completed in IO
+Job 30 is queued to IO Queue
+Job 51 is executing in IO, it will take 761 milliseconds
+Job 69 is completed in CPU
+Job 69 is queued to IO Queue
+Job 76 is executing in CPU, it will take 839 milliseconds
+Job 53 is completed in CPU
+Job 53 is queued to IO Queue
+Job 25 is executing in CPU, it will take 363 milliseconds
+Job 23 is completed in IO
+Job 23 is queued to IO Queue
+Job 48 is executing in IO, it will take 812 milliseconds
+Job 50 is completed in CPU
+Job 50 is queued to IO Queue
+Job 22 is executing in CPU, it will take 158 milliseconds
+Job 35 is completed in CPU
+Job 35 is queued to IO Queue
+Job 49 is executing in CPU, it will take 160 milliseconds
+Job 71 is completed in CPU
+Job 71 is queued to Ready Queue
+Job 55 is executing in CPU, it will take 568 milliseconds
+Job 16 is completed in IO
+Job 16 is set to completed
+Job 16 is queued to Finished Queue
+Job 17 is executing in IO, it will take 181 milliseconds
+Job 22 is completed in CPU
+Job 22 is queued to IO Queue
+Job 77 is executing in CPU, it will take 707 milliseconds
+Job 73 is completed in CPU
+Job 73 is queued to IO Queue
+Job 78 is executing in CPU, it will take 670 milliseconds
+Job 49 is completed in CPU
+Job 49 is queued to IO Queue
+Job 79 is executing in CPU, it will take 831 milliseconds
+Job 47 is completed in IO
+Job 47 is queued to IO Queue
+Job 13 is executing in IO, it will take 593 milliseconds
+Job 25 is completed in CPU
+Job 25 is queued to Ready Queue
+Job 80 is executing in CPU, it will take 355 milliseconds
+Job 16 has finished and been dequeued from Finish Queue
+DEBUG: Finished 11 / 100 jobs
+Job 75 is completed in CPU
+Job 75 is queued to Ready Queue
+Job 37 is executing in CPU, it will take 131 milliseconds
+Job 17 is completed in IO
+Job 17 is set to completed
+Job 17 is queued to Finished Queue
+Job 21 is executing in IO, it will take 6 milliseconds
+Job 21 is completed in IO
+Job 21 is queued to Ready Queue
+Job 36 is executing in IO, it will take 378 milliseconds
+Job 74 is completed in CPU
+Job 74 is queued to Ready Queue
+Job 81 is executing in CPU, it will take 549 milliseconds
+Job 37 is completed in CPU
+Job 37 is queued to IO Queue
+Job 83 is executing in CPU, it will take 628 milliseconds
+Job 51 is completed in IO
+Job 51 is queued to Ready Queue
+Job 34 is executing in IO, it will take 372 milliseconds
+Job 17 has finished and been dequeued from Finish Queue
+DEBUG: Finished 12 / 100 jobs
+Job 80 is completed in CPU
+Job 80 is queued to Ready Queue
+Job 82 is executing in CPU, it will take 211 milliseconds
+Job 55 is completed in CPU
+Job 55 is queued to IO Queue
+Job 84 is executing in CPU, it will take 233 milliseconds
+Job 36 is completed in IO
+Job 36 is queued to Ready Queue
+Job 52 is executing in IO, it will take 785 milliseconds
+Job 76 is completed in CPU
+Job 76 is queued to Ready Queue
+Job 14 is executing in CPU, it will take 581 milliseconds
+Job 48 is completed in IO
+Job 48 is queued to IO Queue
+Job 40 is executing in IO, it will take 478 milliseconds
+Job 82 is completed in CPU
+Job 82 is queued to Ready Queue
+Job 56 is executing in CPU, it will take 379 milliseconds
+Job 13 is completed in IO
+Job 13 is set to completed
+Job 13 is queued to Finished Queue
+Job 5 is executing in IO, it will take 893 milliseconds
+Job 78 is completed in CPU
+Job 78 is queued to Ready Queue
+Job 42 is executing in CPU, it will take 758 milliseconds
+Job 34 is completed in IO
+Job 34 is queued to Ready Queue
+Job 38 is executing in IO, it will take 696 milliseconds
+Job 84 is completed in CPU
+Job 13 has finished and been dequeued from Finish Queue
+Job 84 is queued to IO Queue
+Job 58 is executing in CPU, it will take 715 milliseconds
+DEBUG: Finished 13 / 100 jobs
+Job 77 is completed in CPU
+Job 77 is queued to IO Queue
+Job 18 is executing in CPU, it will take 887 milliseconds
+Job 81 is completed in CPU
+Job 81 is queued to Ready Queue
+Job 54 is executing in CPU, it will take 641 milliseconds
+Job 79 is completed in CPU
+Job 79 is queued to IO Queue
+Job 85 is executing in CPU, it will take 86 milliseconds
+Job 83 is completed in CPU
+Job 83 is queued to Ready Queue
+Job 86 is executing in CPU, it will take 905 milliseconds
+Job 85 is completed in CPU
+Job 85 is queued to Ready Queue
+Job 87 is executing in CPU, it will take 270 milliseconds
+Job 56 is completed in CPU
+Job 56 is queued to Ready Queue
+Job 88 is executing in CPU, it will take 523 milliseconds
+Job 40 is completed in IO
+Job 40 is queued to Ready Queue
+Job 20 is executing in IO, it will take 572 milliseconds
+Job 14 is completed in CPU
+Job 14 is set to completed
+Job 14 is queued to Finished Queue
+Job 12 is executing in CPU, it will take 268 milliseconds
+Job 87 is completed in CPU
+Job 87 is queued to IO Queue
+Job 89 is executing in CPU, it will take 860 milliseconds
+Job 14 has finished and been dequeued from Finish Queue
+DEBUG: Finished 14 / 100 jobs
+Job 52 is completed in IO
+Job 52 is queued to IO Queue
+Job 33 is executing in IO, it will take 88 milliseconds
+Job 38 is completed in IO
+Job 38 is queued to Ready Queue
+Job 41 is executing in IO, it will take 380 milliseconds
+Job 54 is completed in CPU
+Job 54 is queued to IO Queue
+Job 90 is executing in CPU, it will take 848 milliseconds
+Job 12 is completed in CPU
+Job 12 is set to completed
+Job 12 is queued to Finished Queue
+Job 91 is executing in CPU, it will take 972 milliseconds
+Job 58 is completed in CPU
+Job 58 is queued to IO Queue
+Job 92 is executing in CPU, it will take 282 milliseconds
+Job 33 is completed in IO
+Job 33 is queued to Ready Queue
+Job 43 is executing in IO, it will take 439 milliseconds
+Job 42 is completed in CPU
+Job 42 is queued to Ready Queue
+Job 57 is executing in CPU, it will take 601 milliseconds
+Job 88 is completed in CPU
+Job 88 is queued to Ready Queue
+Job 26 is executing in CPU, it will take 954 milliseconds
+Job 5 is completed in IO
+Job 5 is set to completed
+Job 5 is queued to Finished Queue
+Job 60 is executing in IO, it will take 192 milliseconds
+Job 18 is completed in CPU
+Job 18 is set to completed
+Job 18 is queued to Finished Queue
+Job 66 is executing in CPU, it will take 50 milliseconds
+Job 12 has finished and been dequeued from Finish Queue
+DEBUG: Finished 15 / 100 jobs
+Job 5 has finished and been dequeued from Finish Queue
+DEBUG: Finished 16 / 100 jobs
+Job 18 has finished and been dequeued from Finish Queue
+DEBUG: Finished 17 / 100 jobs
+Job 66 is completed in CPU
+Job 66 is queued to Ready Queue
+Job 93 is executing in CPU, it will take 422 milliseconds
+Job 20 is completed in IO
+Job 20 is set to completed
+Job 20 is queued to Finished Queue
+Job 39 is executing in IO, it will take 173 milliseconds
+Job 92 is completed in CPU
+Job 92 is queued to IO Queue
+Job 94 is executing in CPU, it will take 407 milliseconds
+Job 60 is completed in IO
+Job 60 is queued to Ready Queue
+Job 44 is executing in IO, it will take 828 milliseconds
+Job 41 is completed in IO
+Job 41 is queued to IO Queue
+Job 64 is executing in IO, it will take 389 milliseconds
+Job 86 is completed in CPU
+Job 86 is queued to Ready Queue
+Job 95 is executing in CPU, it will take 192 milliseconds
+Job 39 is completed in IO
+Job 39 is queued to Ready Queue
+Job 59 is executing in IO, it will take 264 milliseconds
+Job 43 is completed in IO
+Job 43 is queued to IO Queue
+Job 63 is executing in IO, it will take 539 milliseconds
+Job 20 has finished and been dequeued from Finish Queue
+DEBUG: Finished 18 / 100 jobs
+Job 95 is completed in CPU
+Job 95 is queued to Ready Queue
+Job 96 is executing in CPU, it will take 741 milliseconds
+Job 57 is completed in CPU
+Job 57 is queued to Ready Queue
+Job 65 is executing in CPU, it will take 242 milliseconds
+Job 93 is completed in CPU
+Job 93 is queued to IO Queue
+Job 46 is executing in CPU, it will take 399 milliseconds
+Job 59 is completed in IO
+Job 59 is queued to IO Queue
+Job 62 is executing in IO, it will take 523 milliseconds
+Job 89 is completed in CPU
+Job 89 is queued to Ready Queue
+Job 15 is executing in CPU, it will take 425 milliseconds
+Job 94 is completed in CPU
+Job 94 is queued to Ready Queue
+Job 97 is executing in CPU, it will take 136 milliseconds
+Job 64 is completed in IO
+Job 64 is queued to IO Queue
+Job 31 is executing in IO, it will take 547 milliseconds
+Job 97 is completed in CPU
+Job 97 is queued to IO Queue
+Job 98 is executing in CPU, it will take 500 milliseconds
+Job 90 is completed in CPU
+Job 90 is queued to IO Queue
+Job 99 is executing in CPU, it will take 785 milliseconds
+Job 65 is completed in CPU
+Job 65 is queued to IO Queue
+Job 100 is executing in CPU, it will take 231 milliseconds
+Job 91 is completed in CPU
+Job 91 is queued to IO Queue
+Job 61 is executing in CPU, it will take 188 milliseconds
+Job 63 is completed in IO
+Job 63 is queued to Ready Queue
+Job 45 is executing in IO, it will take 988 milliseconds
+Job 46 is completed in CPU
+Job 46 is queued to Ready Queue
+Job 68 is executing in CPU, it will take 345 milliseconds
+Job 26 is completed in CPU
+Job 26 is queued to Ready Queue
+Job 29 is executing in CPU, it will take 325 milliseconds
+Job 15 is completed in CPU
+Job 15 is set to completed
+Job 15 is queued to Finished Queue
+Job 19 is executing in CPU, it will take 270 milliseconds
+Job 15 has finished and been dequeued from Finish Queue
+DEBUG: Finished 19 / 100 jobs
+Job 100 is completed in CPU
+Job 100 is queued to IO Queue
+Job 67 is executing in CPU, it will take 527 milliseconds
+Job 61 is completed in CPU
+Job 61 is queued to Ready Queue
+Job 24 is executing in CPU, it will take 905 milliseconds
+Job 44 is completed in IO
+Job 44 is queued to IO Queue
+Job 27 is executing in IO, it will take 22 milliseconds
+Job 27 is completed in IO
+Job 27 is queued to IO Queue
+Job 28 is executing in IO, it will take 404 milliseconds
+Job 62 is completed in IO
+Job 62 is queued to Ready Queue
+Job 72 is executing in IO, it will take 812 milliseconds
+Job 31 is completed in IO
+Job 31 is queued to IO Queue
+Job 32 is executing in IO, it will take 255 milliseconds
+Job 98 is completed in CPU
+Job 98 is queued to IO Queue
+Job 70 is executing in CPU, it will take 817 milliseconds
+Job 96 is completed in CPU
+Job 96 is queued to Ready Queue
+Job 71 is executing in CPU, it will take 482 milliseconds
+Job 19 is completed in CPU
+Job 19 is set to completed
+Job 19 is queued to Finished Queue
+Job 25 is executing in CPU, it will take 149 milliseconds
+Job 68 is completed in CPU
+Job 68 is queued to IO Queue
+Job 75 is executing in CPU, it will take 460 milliseconds
+Job 19 has finished and been dequeued from Finish Queue
+DEBUG: Finished 20 / 100 jobs
+Job 29 is completed in CPU
+Job 29 is queued to IO Queue
+Job 21 is executing in CPU, it will take 305 milliseconds
+Job 25 is completed in CPU
+Job 25 is set to completed
+Job 25 is queued to Finished Queue
+Job 74 is executing in CPU, it will take 948 milliseconds
+Job 32 is completed in IO
+Job 32 is queued to IO Queue
+Job 30 is executing in IO, it will take 281 milliseconds
+Job 28 is completed in IO
+Job 28 is queued to Ready Queue
+Job 69 is executing in IO, it will take 88 milliseconds
+Job 99 is completed in CPU
+Job 99 is queued to IO Queue
+Job 51 is executing in CPU, it will take 794 milliseconds
+Job 67 is completed in CPU
+Job 67 is queued to IO Queue
+Job 80 is executing in CPU, it will take 69 milliseconds
+Job 69 is completed in IO
+Job 69 is queued to IO Queue
+Job 53 is executing in IO, it will take 591 milliseconds
+Job 25 has finished and been dequeued from Finish Queue
+DEBUG: Finished 21 / 100 jobs
+Job 80 is completed in CPU
+Job 80 is queued to Ready Queue
+Job 36 is executing in CPU, it will take 255 milliseconds
+Job 21 is completed in CPU
+Job 21 is set to completed
+Job 21 is queued to Finished Queue
+Job 76 is executing in CPU, it will take 365 milliseconds
+Job 30 is completed in IO
+Job 30 is queued to IO Queue
+Job 23 is executing in IO, it will take 249 milliseconds
+Job 71 is completed in CPU
+Job 71 is queued to Ready Queue
+Job 82 is executing in CPU, it will take 852 milliseconds
+Job 75 is completed in CPU
+Job 75 is queued to IO Queue
+Job 78 is executing in CPU, it will take 696 milliseconds
+Job 36 is completed in CPU
+Job 36 is queued to IO Queue
+Job 34 is executing in CPU, it will take 870 milliseconds
+Job 45 is completed in IO
+Job 45 is queued to Ready Queue
+Job 50 is executing in IO, it will take 257 milliseconds
+Job 21 has finished and been dequeued from Finish Queue
+DEBUG: Finished 22 / 100 jobs
+Job 72 is completed in IO
+Job 72 is queued to Ready Queue
+Job 35 is executing in IO, it will take 836 milliseconds
+Job 24 is completed in CPU
+Job 24 is set to completed
+Job 24 is queued to Finished Queue
+Job 81 is executing in CPU, it will take 750 milliseconds
+Job 23 is completed in IO
+Job 23 is set to completed
+Job 23 is queued to Finished Queue
+Job 22 is executing in IO, it will take 219 milliseconds
+Job 76 is completed in CPU
+Job 76 is queued to IO Queue
+Job 83 is executing in CPU, it will take 677 milliseconds
+Job 70 is completed in CPU
+Job 70 is queued to Ready Queue
+Job 85 is executing in CPU, it will take 851 milliseconds
+Job 50 is completed in IO
+Job 50 is queued to Ready Queue
+Job 73 is executing in IO, it will take 123 milliseconds
+Job 53 is completed in IO
+Job 53 is queued to Ready Queue
+Job 49 is executing in IO, it will take 422 milliseconds
+Job 22 is completed in IO
+Job 22 is set to completed
+Job 22 is queued to Finished Queue
+Job 47 is executing in IO, it will take 656 milliseconds
+Job 24 has finished and been dequeued from Finish Queue
+DEBUG: Finished 23 / 100 jobs
+Job 23 has finished and been dequeued from Finish Queue
+DEBUG: Finished 24 / 100 jobs
+Job 22 has finished and been dequeued from Finish Queue
+DEBUG: Finished 25 / 100 jobs
+Job 73 is completed in IO
+Job 73 is queued to Ready Queue
+Job 37 is executing in IO, it will take 844 milliseconds
+Job 51 is completed in CPU
+Job 51 is queued to IO Queue
+Job 56 is executing in CPU, it will take 345 milliseconds
+Job 74 is completed in CPU
+Job 74 is queued to IO Queue
+Job 40 is executing in CPU, it will take 528 milliseconds
+Job 78 is completed in CPU
+Job 78 is queued to Ready Queue
+Job 38 is executing in CPU, it will take 839 milliseconds
+Job 82 is completed in CPU
+Job 82 is queued to Ready Queue
+Job 33 is executing in CPU, it will take 925 milliseconds
+Job 49 is completed in IO
+Job 49 is queued to Ready Queue
+Job 55 is executing in IO, it will take 280 milliseconds
+Job 56 is completed in CPU
+Job 56 is queued to IO Queue
+Job 42 is executing in CPU, it will take 34 milliseconds
+Job 83 is completed in CPU
+Job 83 is queued to IO Queue
+Job 88 is executing in CPU, it will take 837 milliseconds
+Job 42 is completed in CPU
+Job 42 is queued to IO Queue
+Job 66 is executing in CPU, it will take 957 milliseconds
+Job 81 is completed in CPU
+Job 81 is queued to IO Queue
+Job 60 is executing in CPU, it will take 412 milliseconds
+Job 34 is completed in CPU
+Job 34 is queued to IO Queue
+Job 86 is executing in CPU, it will take 937 milliseconds
+Job 35 is completed in IO
+Job 35 is queued to IO Queue
+Job 48 is executing in IO, it will take 470 milliseconds
+Job 47 is completed in IO
+Job 47 is queued to IO Queue
+Job 84 is executing in IO, it will take 362 milliseconds
+Job 55 is completed in IO
+Job 55 is queued to Ready Queue
+Job 77 is executing in IO, it will take 304 milliseconds
+Job 85 is completed in CPU
+Job 85 is queued to IO Queue
+Job 39 is executing in CPU, it will take 107 milliseconds
+Job 40 is completed in CPU
+Job 40 is queued to Ready Queue
+Job 95 is executing in CPU, it will take 657 milliseconds
+Job 39 is completed in CPU
+Job 39 is queued to Ready Queue
+Job 57 is executing in CPU, it will take 397 milliseconds
+Job 37 is completed in IO
+Job 37 is queued to Ready Queue
+Job 79 is executing in IO, it will take 742 milliseconds
+Job 60 is completed in CPU
+Job 60 is queued to Ready Queue
+Job 89 is executing in CPU, it will take 234 milliseconds
+Job 77 is completed in IO
+Job 77 is queued to Ready Queue
+Job 87 is executing in IO, it will take 534 milliseconds
+Job 84 is completed in IO
+Job 48 is completed in IO
+Job 84 is queued to IO Queue
+Job 52 is executing in IO, it will take 463 milliseconds
+Job 48 is queued to IO Queue
+Job 54 is executing in IO, it will take 281 milliseconds
+Job 38 is completed in CPU
+Job 38 is queued to IO Queue
+Job 94 is executing in CPU, it will take 179 milliseconds
+Job 89 is completed in CPU
+Job 89 is queued to Ready Queue
+Job 63 is executing in CPU, it will take 773 milliseconds
+Job 57 is completed in CPU
+Job 57 is queued to Ready Queue
+Job 46 is executing in CPU, it will take 823 milliseconds
+Job 94 is completed in CPU
+Job 94 is queued to Ready Queue
+Job 26 is executing in CPU, it will take 289 milliseconds
+Job 33 is completed in CPU
+Job 33 is queued to IO Queue
+Job 61 is executing in CPU, it will take 185 milliseconds
+Job 54 is completed in IO
+Job 54 is queued to IO Queue
+Job 58 is executing in IO, it will take 579 milliseconds
+Job 88 is completed in CPU
+Job 88 is queued to IO Queue
+Job 62 is executing in CPU, it will take 758 milliseconds
+Job 95 is completed in CPU
+Job 95 is queued to IO Queue
+Job 96 is executing in CPU, it will take 576 milliseconds
+Job 66 is completed in CPU
+Job 66 is queued to IO Queue
+Job 28 is executing in CPU, it will take 205 milliseconds
+Job 86 is completed in CPU
+Job 86 is queued to Ready Queue
+Job 80 is executing in CPU, it will take 998 milliseconds
+Job 52 is completed in IO
+Job 52 is queued to IO Queue
+Job 92 is executing in IO, it will take 877 milliseconds
+Job 61 is completed in CPU
+Job 61 is queued to Ready Queue
+Job 71 is executing in CPU, it will take 649 milliseconds
+Job 87 is completed in IO
+Job 87 is queued to IO Queue
+Job 41 is executing in IO, it will take 492 milliseconds
+Job 26 is completed in CPU
+Job 26 is set to completed
+Job 26 is queued to Finished Queue
+Job 45 is executing in CPU, it will take 756 milliseconds
+Job 79 is completed in IO
+Job 79 is queued to Ready Queue
+Job 43 is executing in IO, it will take 995 milliseconds
+Job 28 is completed in CPU
+Job 28 is set to completed
+Job 28 is queued to Finished Queue
+Job 72 is executing in CPU, it will take 405 milliseconds
+Job 26 has finished and been dequeued from Finish Queue
+DEBUG: Finished 26 / 100 jobs
+Job 28 has finished and been dequeued from Finish Queue
+DEBUG: Finished 27 / 100 jobs
+Job 58 is completed in IO
+Job 58 is queued to Ready Queue
+Job 93 is executing in IO, it will take 693 milliseconds
+Job 63 is completed in CPU
+Job 63 is queued to IO Queue
+Job 70 is executing in CPU, it will take 820 milliseconds
+Job 96 is completed in CPU
+Job 96 is queued to IO Queue
+Job 50 is executing in CPU, it will take 360 milliseconds
+Job 41 is completed in IO
+Job 41 is queued to IO Queue
+Job 59 is executing in IO, it will take 361 milliseconds
+Job 46 is completed in CPU
+Job 46 is queued to Ready Queue
+Job 53 is executing in CPU, it will take 643 milliseconds
+Job 72 is completed in CPU
+Job 72 is queued to Ready Queue
+Job 73 is executing in CPU, it will take 311 milliseconds
+Job 62 is completed in CPU
+Job 62 is queued to IO Queue
+Job 78 is executing in CPU, it will take 678 milliseconds
+Job 71 is completed in CPU
+Job 71 is queued to Ready Queue
+Job 82 is executing in CPU, it will take 801 milliseconds
+Job 50 is completed in CPU
+Job 50 is queued to IO Queue
+Job 49 is executing in CPU, it will take 457 milliseconds
+Job 45 is completed in CPU
+Job 45 is queued to Ready Queue
+Job 55 is executing in CPU, it will take 692 milliseconds
+Job 92 is completed in IO
+Job 92 is queued to Ready Queue
+Job 64 is executing in IO, it will take 898 milliseconds
+Job 73 is completed in CPU
+Job 73 is queued to IO Queue
+Job 40 is executing in CPU, it will take 607 milliseconds
+Job 59 is completed in IO
+Job 59 is queued to Ready Queue
+Job 97 is executing in IO, it will take 818 milliseconds
+Job 80 is completed in CPU
+Job 80 is queued to IO Queue
+Job 39 is executing in CPU, it will take 15 milliseconds
+Job 39 is completed in CPU
+Job 39 is set to completed
+Job 39 is queued to Finished Queue
+Job 37 is executing in CPU, it will take 989 milliseconds
+Job 93 is completed in IO
+Job 93 is queued to IO Queue
+Job 90 is executing in IO, it will take 597 milliseconds
+Job 43 is completed in IO
+Job 43 is queued to Ready Queue
+Job 65 is executing in IO, it will take 835 milliseconds
+Job 53 is completed in CPU
+Job 53 is queued to Ready Queue
+Job 60 is executing in CPU, it will take 400 milliseconds
+Job 39 has finished and been dequeued from Finish Queue
+DEBUG: Finished 28 / 100 jobs
+Job 78 is completed in CPU
+Job 78 is queued to IO Queue
+Job 77 is executing in CPU, it will take 733 milliseconds
+Job 70 is completed in CPU
+Job 70 is queued to IO Queue
+Job 89 is executing in CPU, it will take 473 milliseconds
+Job 49 is completed in CPU
+Job 49 is queued to IO Queue
+Job 57 is executing in CPU, it will take 165 milliseconds
+Job 57 is completed in CPU
+Job 57 is queued to IO Queue
+Job 94 is executing in CPU, it will take 961 milliseconds
+Job 82 is completed in CPU
+Job 82 is queued to IO Queue
+Job 86 is executing in CPU, it will take 97 milliseconds
+Job 40 is completed in CPU
+Job 40 is set to completed
+Job 40 is queued to Finished Queue
+Job 61 is executing in CPU, it will take 621 milliseconds
+Job 55 is completed in CPU
+Job 55 is queued to IO Queue
+Job 79 is executing in CPU, it will take 335 milliseconds
+Job 86 is completed in CPU
+Job 86 is queued to Ready Queue
+Job 58 is executing in CPU, it will take 116 milliseconds
+Job 40 has finished and been dequeued from Finish Queue
+DEBUG: Finished 29 / 100 jobs
+Job 60 is completed in CPU
+Job 60 is queued to Ready Queue
+Job 46 is executing in CPU, it will take 438 milliseconds
+Job 58 is completed in CPU
+Job 58 is queued to IO Queue
+Job 72 is executing in CPU, it will take 35 milliseconds
+Job 90 is completed in IO
+Job 90 is queued to Ready Queue
+Job 91 is executing in IO, it will take 635 milliseconds
+Job 72 is completed in CPU
+Job 72 is queued to Ready Queue
+Job 71 is executing in CPU, it will take 344 milliseconds
+Job 97 is completed in IO
+Job 97 is queued to IO Queue
+Job 100 is executing in IO, it will take 512 milliseconds
+Job 89 is completed in CPU
+Job 89 is queued to Ready Queue
+Job 45 is executing in CPU, it will take 6 milliseconds
+Job 45 is completed in CPU
+Job 45 is set to completed
+Job 45 is queued to Finished Queue
+Job 92 is executing in CPU, it will take 955 milliseconds
+Job 64 is completed in IO
+Job 64 is queued to Ready Queue
+Job 44 is executing in IO, it will take 932 milliseconds
+Job 79 is completed in CPU
+Job 79 is queued to IO Queue
+Job 59 is executing in CPU, it will take 639 milliseconds
+Job 45 has finished and been dequeued from Finish Queue
+DEBUG: Finished 30 / 100 jobs
+Job 65 is completed in IO
+Job 37 is completed in CPU
+Job 65 is queued to Ready Queue
+Job 27 is executing in IO, it will take 115 milliseconds
+Job 37 is set to completed
+Job 37 is queued to Finished Queue
+Job 43 is executing in CPU, it will take 420 milliseconds
+Job 77 is completed in CPU
+Job 77 is queued to IO Queue
+Job 53 is executing in CPU, it will take 270 milliseconds
+Job 46 is completed in CPU
+Job 46 is set to completed
+Job 46 is queued to Finished Queue
+Job 86 is executing in CPU, it will take 5 milliseconds
+Job 86 is completed in CPU
+Job 86 is queued to IO Queue
+Job 60 is executing in CPU, it will take 772 milliseconds
+Job 71 is completed in CPU
+Job 71 is queued to Ready Queue
+Job 90 is executing in CPU, it will take 851 milliseconds
+Job 27 is completed in IO
+Job 27 is set to completed
+Job 27 is queued to Finished Queue
+Job 31 is executing in IO, it will take 356 milliseconds
+Job 61 is completed in CPU
+Job 61 is queued to Ready Queue
+Job 72 is executing in CPU, it will take 65 milliseconds
+Job 37 has finished and been dequeued from Finish Queue
+DEBUG: Finished 31 / 100 jobs
+Job 46 has finished and been dequeued from Finish Queue
+DEBUG: Finished 32 / 100 jobs
+Job 27 has finished and been dequeued from Finish Queue
+DEBUG: Finished 33 / 100 jobs
+Job 72 is completed in CPU
+Job 72 is set to completed
+Job 72 is queued to Finished Queue
+Job 89 is executing in CPU, it will take 468 milliseconds
+Job 100 is completed in IO
+Job 100 is queued to Ready Queue
+Job 98 is executing in IO, it will take 706 milliseconds
+Job 53 is completed in CPU
+Job 53 is set to completed
+Job 53 is queued to Finished Queue
+Job 64 is executing in CPU, it will take 359 milliseconds
+Job 91 is completed in IO
+Job 91 is queued to Ready Queue
+Job 68 is executing in IO, it will take 895 milliseconds
+Job 94 is completed in CPU
+Job 94 is queued to Ready Queue
+Job 65 is executing in CPU, it will take 149 milliseconds
+Job 43 is completed in CPU
+Job 43 is set to completed
+Job 43 is queued to Finished Queue
+Job 71 is executing in CPU, it will take 286 milliseconds
+Job 31 is completed in IO
+Job 31 is set to completed
+Job 31 is queued to Finished Queue
+Job 29 is executing in IO, it will take 430 milliseconds
+Job 72 has finished and been dequeued from Finish Queue
+DEBUG: Finished 34 / 100 jobs
+Job 53 has finished and been dequeued from Finish Queue
+DEBUG: Finished 35 / 100 jobs
+Job 43 has finished and been dequeued from Finish Queue
+DEBUG: Finished 36 / 100 jobs
+Job 31 has finished and been dequeued from Finish Queue
+DEBUG: Finished 37 / 100 jobs
+Job 59 is completed in CPU
+Job 59 is queued to Ready Queue
+Job 61 is executing in CPU, it will take 280 milliseconds
+Job 65 is completed in CPU
+Job 65 is queued to IO Queue
+Job 100 is executing in CPU, it will take 762 milliseconds
+Job 64 is completed in CPU
+Job 64 is queued to IO Queue
+Job 91 is executing in CPU, it will take 595 milliseconds
+Job 89 is completed in CPU
+Job 89 is queued to Ready Queue
+Job 94 is executing in CPU, it will take 84 milliseconds
+Job 71 is completed in CPU
+Job 71 is set to completed
+Job 71 is queued to Finished Queue
+Job 59 is executing in CPU, it will take 549 milliseconds
+Job 92 is completed in CPU
+Job 92 is queued to IO Queue
+Job 89 is executing in CPU, it will take 128 milliseconds
+Job 44 is completed in IO
+Job 44 is queued to Ready Queue
+Job 32 is executing in IO, it will take 132 milliseconds
+Job 94 is completed in CPU
+Job 94 is queued to IO Queue
+Job 44 is executing in CPU, it will take 451 milliseconds
+Job 71 has finished and been dequeued from Finish Queue
+DEBUG: Finished 38 / 100 jobs
+Job 61 is completed in CPU
+Job 61 is set to completed
+Job 61 is queued to Finished Queue
+Job 60 is completed in CPU
+Job 60 is set to completed
+Job 60 is queued to Finished Queue
+Job 89 is completed in CPU
+Job 89 is set to completed
+Job 89 is queued to Finished Queue
+Job 32 is completed in IO
+Job 32 is set to completed
+Job 32 is queued to Finished Queue
+Job 99 is executing in IO, it will take 173 milliseconds
+Job 29 is completed in IO
+Job 29 is set to completed
+Job 29 is queued to Finished Queue
+Job 67 is executing in IO, it will take 975 milliseconds
+Job 90 is completed in CPU
+Job 90 is queued to IO Queue
+Job 98 is completed in IO
+Job 98 is queued to IO Queue
+Job 69 is executing in IO, it will take 626 milliseconds
+Job 99 is completed in IO
+Job 99 is queued to Ready Queue
+Job 30 is executing in IO, it will take 613 milliseconds
+Job 61 has finished and been dequeued from Finish Queue
+DEBUG: Finished 39 / 100 jobs
+Job 60 has finished and been dequeued from Finish Queue
+DEBUG: Finished 40 / 100 jobs
+Job 89 has finished and been dequeued from Finish Queue
+DEBUG: Finished 41 / 100 jobs
+Job 32 has finished and been dequeued from Finish Queue
+DEBUG: Finished 42 / 100 jobs
+Job 99 is executing in CPU, it will take 790 milliseconds
+Job 44 is completed in CPU
+Job 44 is set to completed
+Job 44 is queued to Finished Queue
+Job 91 is completed in CPU
+Job 91 is queued to Ready Queue
+Job 91 is executing in CPU, it will take 931 milliseconds
+Job 68 is completed in IO
+Job 68 is queued to IO Queue
+Job 75 is executing in IO, it will take 338 milliseconds
+Job 59 is completed in CPU
+Job 59 is set to completed
+Job 59 is queued to Finished Queue
+Job 100 is completed in CPU
+Job 100 is queued to Ready Queue
+Job 100 is executing in CPU, it will take 387 milliseconds
+Job 29 has finished and been dequeued from Finish Queue
+DEBUG: Finished 43 / 100 jobs
+Job 44 has finished and been dequeued from Finish Queue
+DEBUG: Finished 44 / 100 jobs
+Job 59 has finished and been dequeued from Finish Queue
+DEBUG: Finished 45 / 100 jobs
+Job 69 is completed in IO
+Job 69 is queued to IO Queue
+Job 36 is executing in IO, it will take 377 milliseconds
+Job 75 is completed in IO
+Job 75 is queued to Ready Queue
+Job 76 is executing in IO, it will take 75 milliseconds
+Job 30 is completed in IO
+Job 30 is set to completed
+Job 30 is queued to Finished Queue
+Job 51 is executing in IO, it will take 546 milliseconds
+Job 76 is completed in IO
+Job 76 is queued to Ready Queue
+Job 74 is executing in IO, it will take 373 milliseconds
+Job 30 has finished and been dequeued from Finish Queue
+DEBUG: Finished 46 / 100 jobs
+Job 100 is completed in CPU
+Job 100 is queued to IO Queue
+Job 75 is executing in CPU, it will take 817 milliseconds
+Job 76 is executing in CPU, it will take 263 milliseconds
+Job 67 is completed in IO
+Job 67 is queued to Ready Queue
+Job 56 is executing in IO, it will take 107 milliseconds
+Job 99 is completed in CPU
+Job 99 is queued to Ready Queue
+Job 67 is executing in CPU, it will take 936 milliseconds
+Job 36 is completed in IO
+Job 36 is set to completed
+Job 36 is queued to Finished Queue
+Job 83 is executing in IO, it will take 570 milliseconds
+Job 36 has finished and been dequeued from Finish Queue
+DEBUG: Finished 47 / 100 jobs
+Job 56 is completed in IO
+Job 56 is queued to IO Queue
+Job 42 is executing in IO, it will take 803 milliseconds
+Job 76 is completed in CPU
+Job 76 is queued to Ready Queue
+Job 99 is executing in CPU, it will take 853 milliseconds
+Job 74 is completed in IO
+Job 74 is queued to Ready Queue
+Job 81 is executing in IO, it will take 504 milliseconds
+Job 76 is executing in CPU, it will take 271 milliseconds
+Job 74 is executing in CPU, it will take 536 milliseconds
+Job 91 is completed in CPU
+Job 91 is queued to Ready Queue
+Job 91 is executing in CPU, it will take 315 milliseconds
+Job 51 is completed in IO
+Job 51 is queued to IO Queue
+Job 34 is executing in IO, it will take 754 milliseconds
+Job 76 is completed in CPU
+Job 76 is set to completed
+Job 76 is queued to Finished Queue
+Job 91 is completed in CPU
+Job 91 is set to completed
+Job 91 is queued to Finished Queue
+Job 75 is completed in CPU
+Job 75 is queued to Ready Queue
+Job 75 is executing in CPU, it will take 579 milliseconds
+Job 83 is completed in IO
+Job 83 is queued to IO Queue
+Job 35 is executing in IO, it will take 356 milliseconds
+Job 81 is completed in IO
+Job 81 is queued to Ready Queue
+Job 47 is executing in IO, it will take 450 milliseconds
+Job 76 has finished and been dequeued from Finish Queue
+DEBUG: Finished 48 / 100 jobs
+Job 91 has finished and been dequeued from Finish Queue
+DEBUG: Finished 49 / 100 jobs
+Job 81 is executing in CPU, it will take 495 milliseconds
+Job 74 is completed in CPU
+Job 74 is queued to IO Queue
+Job 42 is completed in IO
+Job 42 is set to completed
+Job 42 is queued to Finished Queue
+Job 85 is executing in IO, it will take 647 milliseconds
+Job 67 is completed in CPU
+Job 67 is queued to Ready Queue
+Job 67 is executing in CPU, it will take 301 milliseconds
+Job 99 is completed in CPU
+Job 99 is queued to Ready Queue
+Job 99 is executing in CPU, it will take 212 milliseconds
+Job 35 is completed in IO
+Job 35 is set to completed
+Job 35 is queued to Finished Queue
+Job 84 is executing in IO, it will take 230 milliseconds
+Job 42 has finished and been dequeued from Finish Queue
+DEBUG: Finished 50 / 100 jobs
+Job 35 has finished and been dequeued from Finish Queue
+DEBUG: Finished 51 / 100 jobs
+Job 34 is completed in IO
+Job 34 is set to completed
+Job 34 is queued to Finished Queue
+Job 48 is executing in IO, it will take 713 milliseconds
+Job 47 is completed in IO
+Job 47 is queued to Ready Queue
+Job 38 is executing in IO, it will take 634 milliseconds
+Job 47 is executing in CPU, it will take 77 milliseconds
+Job 99 is completed in CPU
+Job 99 is set to completed
+Job 99 is queued to Finished Queue
+Job 75 is completed in CPU
+Job 75 is set to completed
+Job 75 is queued to Finished Queue
+Job 84 is completed in IO
+Job 84 is queued to IO Queue
+Job 33 is executing in IO, it will take 731 milliseconds
+Job 47 is completed in CPU
+Job 47 is set to completed
+Job 47 is queued to Finished Queue
+Job 67 is completed in CPU
+Job 67 is set to completed
+Job 67 is queued to Finished Queue
+Job 81 is completed in CPU
+Job 81 is queued to IO Queue
+Job 34 has finished and been dequeued from Finish Queue
+DEBUG: Finished 52 / 100 jobs
+Job 99 has finished and been dequeued from Finish Queue
+DEBUG: Finished 53 / 100 jobs
+Job 75 has finished and been dequeued from Finish Queue
+DEBUG: Finished 54 / 100 jobs
+Job 47 has finished and been dequeued from Finish Queue
+DEBUG: Finished 55 / 100 jobs
+Job 85 is completed in IO
+Job 85 is queued to IO Queue
+Job 54 is executing in IO, it will take 143 milliseconds
+Job 67 has finished and been dequeued from Finish Queue
+DEBUG: Finished 56 / 100 jobs
+Job 54 is completed in IO
+Job 54 is queued to IO Queue
+Job 88 is executing in IO, it will take 921 milliseconds
+Job 38 is completed in IO
+Job 38 is set to completed
+Job 38 is queued to Finished Queue
+Job 95 is executing in IO, it will take 843 milliseconds
+Job 48 is completed in IO
+Job 48 is queued to IO Queue
+Job 66 is executing in IO, it will take 209 milliseconds
+Job 38 has finished and been dequeued from Finish Queue
+DEBUG: Finished 57 / 100 jobs
+Job 33 is completed in IO
+Job 33 is set to completed
+Job 33 is queued to Finished Queue
+Job 52 is executing in IO, it will take 730 milliseconds
+Job 66 is completed in IO
+Job 66 is queued to Ready Queue
+Job 87 is executing in IO, it will take 810 milliseconds
+Job 66 is executing in CPU, it will take 289 milliseconds
+Job 33 has finished and been dequeued from Finish Queue
+DEBUG: Finished 58 / 100 jobs
+Job 66 is completed in CPU
+Job 66 is set to completed
+Job 66 is queued to Finished Queue
+Job 66 has finished and been dequeued from Finish Queue
+DEBUG: Finished 59 / 100 jobs
+Job 95 is completed in IO
+Job 95 is queued to IO Queue
+Job 63 is executing in IO, it will take 848 milliseconds
+Job 88 is completed in IO
+Job 88 is queued to IO Queue
+Job 96 is executing in IO, it will take 470 milliseconds
+Job 52 is completed in IO
+Job 52 is queued to Ready Queue
+Job 41 is executing in IO, it will take 24 milliseconds
+Job 52 is executing in CPU, it will take 290 milliseconds
+Job 41 is completed in IO
+Job 41 is set to completed
+Job 41 is queued to Finished Queue
+Job 62 is executing in IO, it will take 439 milliseconds
+Job 87 is completed in IO
+Job 87 is queued to IO Queue
+Job 50 is executing in IO, it will take 486 milliseconds
+Job 41 has finished and been dequeued from Finish Queue
+DEBUG: Finished 60 / 100 jobs
+Job 52 is completed in CPU
+Job 52 is set to completed
+Job 52 is queued to Finished Queue
+Job 96 is completed in IO
+Job 96 is queued to Ready Queue
+Job 73 is executing in IO, it will take 454 milliseconds
+Job 52 has finished and been dequeued from Finish Queue
+DEBUG: Finished 61 / 100 jobs
+Job 62 is completed in IO
+Job 62 is queued to Ready Queue
+Job 80 is executing in IO, it will take 55 milliseconds
+Job 96 is executing in CPU, it will take 51 milliseconds
+Job 80 is completed in IO
+Job 80 is queued to Ready Queue
+Job 93 is executing in IO, it will take 957 milliseconds
+Job 96 is completed in CPU
+Job 96 is queued to IO Queue
+Job 62 is executing in CPU, it will take 814 milliseconds
+Job 50 is completed in IO
+Job 50 is set to completed
+Job 50 is queued to Finished Queue
+Job 78 is executing in IO, it will take 425 milliseconds
+Job 80 is executing in CPU, it will take 27 milliseconds
+Job 80 is completed in CPU
+Job 80 is set to completed
+Job 80 is queued to Finished Queue
+Job 63 is completed in IO
+Job 63 is queued to Ready Queue
+Job 70 is executing in IO, it will take 442 milliseconds
+Job 50 has finished and been dequeued from Finish Queue
+DEBUG: Finished 62 / 100 jobs
+Job 80 has finished and been dequeued from Finish Queue
+DEBUG: Finished 63 / 100 jobs
+Job 73 is completed in IO
+Job 73 is queued to Ready Queue
+Job 49 is executing in IO, it will take 832 milliseconds
+Job 63 is executing in CPU, it will take 193 milliseconds
+Job 73 is executing in CPU, it will take 449 milliseconds
+Job 78 is completed in IO
+Job 78 is queued to Ready Queue
+Job 57 is executing in IO, it will take 728 milliseconds
+Job 63 is completed in CPU
+Job 63 is set to completed
+Job 63 is queued to Finished Queue
+Job 78 is executing in CPU, it will take 711 milliseconds
+Job 70 is completed in IO
+Job 70 is queued to IO Queue
+Job 82 is executing in IO, it will take 776 milliseconds
+Job 63 has finished and been dequeued from Finish Queue
+DEBUG: Finished 64 / 100 jobs
+Job 62 is completed in CPU
+Job 62 is set to completed
+Job 62 is queued to Finished Queue
+Job 73 is completed in CPU
+Job 73 is set to completed
+Job 73 is queued to Finished Queue
+Job 93 is completed in IO
+Job 93 is queued to IO Queue
+Job 55 is executing in IO, it will take 10 milliseconds
+Job 55 is completed in IO
+Job 55 is set to completed
+Job 55 is queued to Finished Queue
+Job 58 is executing in IO, it will take 536 milliseconds
+Job 62 has finished and been dequeued from Finish Queue
+DEBUG: Finished 65 / 100 jobs
+Job 73 has finished and been dequeued from Finish Queue
+DEBUG: Finished 66 / 100 jobs
+Job 55 has finished and been dequeued from Finish Queue
+DEBUG: Finished 67 / 100 jobs
+Job 49 is completed in IO
+Job 49 is set to completed
+Job 49 is queued to Finished Queue
+Job 97 is executing in IO, it will take 767 milliseconds
+Job 57 is completed in IO
+Job 57 is set to completed
+Job 57 is queued to Finished Queue
+Job 79 is executing in IO, it will take 941 milliseconds
+Job 78 is completed in CPU
+Job 78 is set to completed
+Job 78 is queued to Finished Queue
+Job 82 is completed in IO
+Job 82 is queued to Ready Queue
+Job 77 is executing in IO, it will take 653 milliseconds
+Job 49 has finished and been dequeued from Finish Queue
+DEBUG: Finished 68 / 100 jobs
+Job 57 has finished and been dequeued from Finish Queue
+DEBUG: Finished 69 / 100 jobs
+Job 78 has finished and been dequeued from Finish Queue
+DEBUG: Finished 70 / 100 jobs
+Job 82 is executing in CPU, it will take 377 milliseconds
+Job 58 is completed in IO
+Job 58 is set to completed
+Job 58 is queued to Finished Queue
+Job 86 is executing in IO, it will take 967 milliseconds
+Job 58 has finished and been dequeued from Finish Queue
+DEBUG: Finished 71 / 100 jobs
+Job 82 is completed in CPU
+Job 82 is set to completed
+Job 82 is queued to Finished Queue
+Job 97 is completed in IO
+Job 97 is queued to Ready Queue
+Job 65 is executing in IO, it will take 339 milliseconds
+Job 97 is executing in CPU, it will take 148 milliseconds
+Job 82 has finished and been dequeued from Finish Queue
+DEBUG: Finished 72 / 100 jobs
+Job 77 is completed in IO
+Job 77 is queued to IO Queue
+Job 64 is executing in IO, it will take 100 milliseconds
+Job 97 is completed in CPU
+Job 97 is queued to IO Queue
+Job 79 is completed in IO
+Job 79 is queued to IO Queue
+Job 92 is executing in IO, it will take 715 milliseconds
+Job 64 is completed in IO
+Job 64 is set to completed
+Job 64 is queued to Finished Queue
+Job 94 is executing in IO, it will take 76 milliseconds
+Job 94 is completed in IO
+Job 94 is set to completed
+Job 94 is queued to Finished Queue
+Job 90 is executing in IO, it will take 795 milliseconds
+Job 65 is completed in IO
+Job 65 is set to completed
+Job 65 is queued to Finished Queue
+Job 98 is executing in IO, it will take 920 milliseconds
+Job 64 has finished and been dequeued from Finish Queue
+DEBUG: Finished 73 / 100 jobs
+Job 94 has finished and been dequeued from Finish Queue
+DEBUG: Finished 74 / 100 jobs
+Job 65 has finished and been dequeued from Finish Queue
+DEBUG: Finished 75 / 100 jobs
+Job 86 is completed in IO
+Job 86 is set to completed
+Job 86 is queued to Finished Queue
+Job 68 is executing in IO, it will take 421 milliseconds
+Job 86 has finished and been dequeued from Finish Queue
+DEBUG: Finished 76 / 100 jobs
+Job 92 is completed in IO
+Job 92 is queued to IO Queue
+Job 69 is executing in IO, it will take 116 milliseconds
+Job 68 is completed in IO
+Job 68 is queued to IO Queue
+Job 100 is executing in IO, it will take 446 milliseconds
+Job 69 is completed in IO
+Job 69 is queued to Ready Queue
+Job 56 is executing in IO, it will take 324 milliseconds
+Job 69 is executing in CPU, it will take 31 milliseconds
+Job 69 is completed in CPU
+Job 69 is set to completed
+Job 69 is queued to Finished Queue
+Job 90 is completed in IO
+Job 90 is queued to IO Queue
+Job 51 is executing in IO, it will take 242 milliseconds
+Job 98 is completed in IO
+Job 98 is queued to Ready Queue
+Job 83 is executing in IO, it will take 204 milliseconds
+Job 69 has finished and been dequeued from Finish Queue
+DEBUG: Finished 77 / 100 jobs
+Job 98 is executing in CPU, it will take 165 milliseconds
+Job 51 is completed in IO
+Job 51 is set to completed
+Job 51 is queued to Finished Queue
+Job 74 is executing in IO, it will take 644 milliseconds
+Job 56 is completed in IO
+Job 56 is set to completed
+Job 56 is queued to Finished Queue
+Job 84 is executing in IO, it will take 765 milliseconds
+Job 100 is completed in IO
+Job 100 is set to completed
+Job 100 is queued to Finished Queue
+Job 81 is executing in IO, it will take 853 milliseconds
+Job 83 is completed in IO
+Job 83 is queued to IO Queue
+Job 85 is executing in IO, it will take 611 milliseconds
+Job 98 is completed in CPU
+Job 98 is queued to IO Queue
+Job 51 has finished and been dequeued from Finish Queue
+DEBUG: Finished 78 / 100 jobs
+Job 56 has finished and been dequeued from Finish Queue
+DEBUG: Finished 79 / 100 jobs
+Job 100 has finished and been dequeued from Finish Queue
+DEBUG: Finished 80 / 100 jobs
+Job 74 is completed in IO
+Job 74 is set to completed
+Job 74 is queued to Finished Queue
+Job 54 is executing in IO, it will take 436 milliseconds
+Job 85 is completed in IO
+Job 85 is queued to IO Queue
+Job 48 is executing in IO, it will take 766 milliseconds
+Job 84 is completed in IO
+Job 84 is queued to IO Queue
+Job 95 is executing in IO, it will take 415 milliseconds
+Job 74 has finished and been dequeued from Finish Queue
+DEBUG: Finished 81 / 100 jobs
+Job 81 is completed in IO
+Job 81 is set to completed
+Job 81 is queued to Finished Queue
+Job 88 is executing in IO, it will take 931 milliseconds
+Job 54 is completed in IO
+Job 54 is set to completed
+Job 54 is queued to Finished Queue
+Job 87 is executing in IO, it will take 389 milliseconds
+Job 81 has finished and been dequeued from Finish Queue
+DEBUG: Finished 82 / 100 jobs
+Job 54 has finished and been dequeued from Finish Queue
+DEBUG: Finished 83 / 100 jobs
+Job 95 is completed in IO
+Job 95 is queued to IO Queue
+Job 96 is executing in IO, it will take 381 milliseconds
+Job 87 is completed in IO
+Job 87 is queued to Ready Queue
+Job 70 is executing in IO, it will take 612 milliseconds
+Job 48 is completed in IO
+Job 48 is set to completed
+Job 48 is queued to Finished Queue
+Job 93 is executing in IO, it will take 182 milliseconds
+Job 87 is executing in CPU, it will take 393 milliseconds
+Job 96 is completed in IO
+Job 96 is set to completed
+Job 96 is queued to Finished Queue
+Job 77 is executing in IO, it will take 168 milliseconds
+Job 93 is completed in IO
+Job 93 is queued to IO Queue
+Job 97 is executing in IO, it will take 104 milliseconds
+Job 77 is completed in IO
+Job 77 is set to completed
+Job 48 has finished and been dequeued from Finish Queue
+DEBUG: Finished 84 / 100 jobs
+Job 77 is queued to Finished Queue
+Job 79 is executing in IO, it will take 253 milliseconds
+Job 96 has finished and been dequeued from Finish Queue
+DEBUG: Finished 85 / 100 jobs
+Job 97 is completed in IO
+Job 97 is set to completed
+Job 97 is queued to Finished Queue
+Job 92 is executing in IO, it will take 697 milliseconds
+Job 77 has finished and been dequeued from Finish Queue
+DEBUG: Finished 86 / 100 jobs
+Job 97 has finished and been dequeued from Finish Queue
+DEBUG: Finished 87 / 100 jobs
+Job 88 is completed in IO
+Job 88 is queued to IO Queue
+Job 68 is executing in IO, it will take 281 milliseconds
+Job 87 is completed in CPU
+Job 87 is set to completed
+Job 87 is queued to Finished Queue
+Job 79 is completed in IO
+Job 79 is set to completed
+Job 79 is queued to Finished Queue
+Job 90 is executing in IO, it will take 674 milliseconds
+Job 87 has finished and been dequeued from Finish Queue
+DEBUG: Finished 88 / 100 jobs
+Job 79 has finished and been dequeued from Finish Queue
+DEBUG: Finished 89 / 100 jobs
+Job 70 is completed in IO
+Job 70 is set to completed
+Job 70 is queued to Finished Queue
+Job 83 is executing in IO, it will take 934 milliseconds
+Job 68 is completed in IO
+Job 68 is set to completed
+Job 68 is queued to Finished Queue
+Job 98 is executing in IO, it will take 688 milliseconds
+Job 70 has finished and been dequeued from Finish Queue
+DEBUG: Finished 90 / 100 jobs
+Job 68 has finished and been dequeued from Finish Queue
+DEBUG: Finished 91 / 100 jobs
+Job 92 is completed in IO
+Job 92 is set to completed
+Job 92 is queued to Finished Queue
+Job 85 is executing in IO, it will take 881 milliseconds
+Job 92 has finished and been dequeued from Finish Queue
+DEBUG: Finished 92 / 100 jobs
+Job 90 is completed in IO
+Job 90 is set to completed
+Job 90 is queued to Finished Queue
+Job 84 is executing in IO, it will take 178 milliseconds
+Job 98 is completed in IO
+Job 98 is set to completed
+Job 98 is queued to Finished Queue
+Job 95 is executing in IO, it will take 456 milliseconds
+Job 84 is completed in IO
+Job 84 is set to completed
+Job 84 is queued to Finished Queue
+Job 93 is executing in IO, it will take 732 milliseconds
+Job 90 has finished and been dequeued from Finish Queue
+DEBUG: Finished 93 / 100 jobs
+Job 98 has finished and been dequeued from Finish Queue
+Job 84 has finished and been dequeued from Finish Queue
+DEBUG: Finished 94 / 100 jobs
+DEBUG: Finished 95 / 100 jobs
+Job 83 is completed in IO
+Job 83 is set to completed
+Job 83 is queued to Finished Queue
+Job 88 is executing in IO, it will take 865 milliseconds
+Job 95 is completed in IO
+Job 95 is set to completed
+Job 83 has finished and been dequeued from Finish Queue
+DEBUG: Finished 96 / 100 jobs
+Job 95 is queued to Finished Queue
+Job 95 has finished and been dequeued from Finish Queue
+DEBUG: Finished 97 / 100 jobs
+Job 85 is completed in IO
+Job 85 is set to completed
+Job 85 is queued to Finished Queue
+Job 85 has finished and been dequeued from Finish Queue
+DEBUG: Finished 98 / 100 jobs
+Job 93 is completed in IO
+Job 93 is set to completed
+Job 93 is queued to Finished Queue
+Job 93 has finished and been dequeued from Finish Queue
+DEBUG: Finished 99 / 100 jobs
+Job 88 is completed in IO
+Job 88 is set to completed
+Job 88 is queued to Finished Queue
+Job 88 has finished and been dequeued from Finish Queue
+DEBUG: Finished 100 / 100 jobs
+All Jobs Finished
