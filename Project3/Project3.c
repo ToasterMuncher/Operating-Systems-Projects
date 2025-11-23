@@ -155,6 +155,7 @@ int main(void) {
     dup2(fd, STDOUT_FILENO);
     close(fd);
 
+    printf("DEBUG: Total Jobs to be created: %d\n", MAX_SIZE);
     printf("NOTICE: TO CHANGE THE AMOUNT OF JOBS PLEASE CHANGE THE MAX_SIZE GLOBAL VARIABLE\n");
 
 
