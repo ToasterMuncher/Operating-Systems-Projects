@@ -155,6 +155,9 @@ int main(void) {
     dup2(fd, STDOUT_FILENO);
     close(fd);
 
+    printf("NOTICE: TO CHANGE THE AMOUNT OF JOBS PLEASE CHANGE THE MAX_SIZE GLOBAL VARIABLE\n");
+
+
 
     srand(time(NULL)); // Initialize random number generator
 
