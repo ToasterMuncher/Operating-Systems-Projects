@@ -99,8 +99,8 @@ Through these projects, I gained hands-on experience with:
 - Low-level hardware interaction
 
 ## **Authors**
-- **Julio Anacleto - University of Washington Tacoma | Computer Engineering - Fall 2025**
-- **Abdullah Almaroof - University of Washington Tacoma | Computer Engineering - Fall 2025**
+- Julio Anacleto - University of Washington Tacoma | Computer Engineering - Fall 2025
+- Abdullah Almaroof - University of Washington Tacoma | Computer Engineering - Fall 2025
 
 ## **Acknowledgements**
 Course Instructor: Matt Tolentino
