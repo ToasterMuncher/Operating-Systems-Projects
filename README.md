@@ -98,8 +98,9 @@ Through these projects, I gained hands-on experience with:
 - Performance analysis and optimization
 - Low-level hardware interaction
 
-## **Author**
+## **Authors**
 Julio Anacleto - University of Washington Tacoma | Computer Engineering - Fall 2025
+Abdullah Almaroof - University of Washington Tacoma | Computer Engineering - Fall 2025
 
 ## **Acknowledgements**
 Course Instructor: Matt Tolentino
