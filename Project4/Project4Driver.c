@@ -87,7 +87,7 @@ static ssize_t etx_read(struct file *filp,
 
 	// Write to user
 	if (copy_to_user(buf, data, 2)) {
-		return -EFAULT
+		return -EFAULT;
 	}
 
 	*off += 2;
