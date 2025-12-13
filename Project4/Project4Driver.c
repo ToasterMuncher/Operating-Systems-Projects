@@ -20,7 +20,7 @@
 #include <linux/gpio.h>     //GPIO
 #include <linux/err.h>
 //LED is connected to this GPIO
-#define GPIO_21 (590)
+#define GPIO_21 (590) // For Julio it was 590, for Abdullah this was 592, the value seems to be board dependent
  
 dev_t dev = 0;
 static struct class *dev_class;
