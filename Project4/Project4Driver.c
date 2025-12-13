@@ -20,7 +20,14 @@
 #include <linux/gpio.h>     //GPIO
 #include <linux/err.h>
 //LED is connected to this GPIO
-#define GPIO_21 (590) // For Julio it was 590, for Abdullah this was 592, the value seems to be board dependent
+#define GPIO_21 (590)
+
+static char *etx_devnode(const struct device *dev, umode_t *mode)
+{
+    if (mode)
+        *mode = 0666;  // rw-rw-rw- permissions
+    return NULL;
+}
  
 dev_t dev = 0;
 static struct class *dev_class;
@@ -150,6 +157,8 @@ static int __init etx_driver_init(void)
 	pr_err("Cannot create the struct class\n");
 	goto r_class;
   }
+	
+   dev_class->devnode = etx_devnode;
  
   /*Creating device*/
   if(IS_ERR(device_create(dev_class,NULL,dev,NULL,"etx_device"))){
